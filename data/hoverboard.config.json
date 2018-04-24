@@ -7,11 +7,11 @@
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "Angular Bolivia",
+    "twitter": "angularBolivia"
   },
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "NG-Bolivia",
     "themeColor": "#F57C00",
     "backgroundColor": "#F57C00"
   },
@@ -83,23 +83,22 @@
     }
   ],
   "location": {
-    "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "apiKey": "AIzaSyAxLN_j_P9takxlRKIRs51GmuLDCIC8ZVg",
+    "name": "Hotel Camino Plaza, Cochabamba",
+    "link": "https://www.facebook.com",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 15
+      "latitude": -17.368676,  
+      "longitude": -66.163414,
+      "zoom": 18
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": -17.368676,
+      "longitude": -66.163414
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/hotel/hotel-1.jpg",
+      "/images/backgrounds/hotel/hotel-2.jpg",
+      "/images/backgrounds/hotel/hotel-3.jpg"
     ]
   },
   "gallery": {
