@@ -1,10 +1,10 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "https://ng-bolivia.org",
+  "startDate": "2018-05-05T09:00:00-04:00",
+  "endDate": "2018-08-05T19:00:00-04:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-119039264-1",
+    "dev": null
   },
   "organizer": {
     "name": "Angular Bolivia",
@@ -25,14 +25,14 @@
     "indexedDbSession": "hoverboard"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "https://ng-bolivia.us18.list-manage.com/subscribe/post?u=c936d9c2d7735e2d92050aaea&amp;id=8a9443bf81",
+    "name": "b_c936d9c2d7735e2d92050aaea_8a9443bf81"
   },
   "dateFormat": {
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
+  "hashtag": "ngBolivia2018",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -49,15 +49,15 @@
     },
     {
       "route": "schedule",
-      "permalink": "/schedule/"
+      "permalink": "/#"
     },
     {
       "route": "speakers",
-      "permalink": "/speakers/"
+      "permalink": "/#"
     },
     {
       "route": "team",
-      "permalink": "/team/"
+      "permalink": "/#"
     }
   ],
   "social": [
@@ -79,7 +79,7 @@
   ],
   "location": {
     "apiKey": "AIzaSyAxLN_j_P9takxlRKIRs51GmuLDCIC8ZVg",
-    "name": "Hotel Camino Plaza, Cochabamba",
+    "name": "Camino Plaza Hotel, Cochabamba",
     "link": "https://www.facebook.com",
     "pointer": {
       "latitude": -17.368676,  
@@ -97,12 +97,12 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://www.meetup.com/Angular-Bolivia/photos",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/meetup/2018_1.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/meetup/2018_2.jpg",
+        "/images/backgrounds/meetup/2018_3.jpg"
       ]
     }
   },
@@ -111,14 +111,10 @@
       "title": "Home",
       "headerSettings": {
         "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundImage": "/images/backgrounds/ng-bolivia-home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "NG Bolivia 2018",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
-        },
+        "video": null,
         "hideLogo": true,
         "minHeight": "360px"
       }

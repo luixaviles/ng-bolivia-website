@@ -1,7 +1,7 @@
 {
   "title": "NG Bolivia 2018",
   "description": "The biggest Angular conference in Bolivia carefully crafted for you and by Angular community! All about Angular and Web from the world experts",
-  "keywords": "angular, conference, event, community, gde, google, programming, developers, web, typescript, mobile, cloud",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "August 3-4, 2018",
   "locationAddressShort": "Cochabamba, Bolivia",
   "motto": "Be an Angular Hero!",
@@ -64,12 +64,12 @@
       "links": [
         {
           "text": "Team",
-          "url": "#",
+          "url": "/team/",
           "newTab": false
         },
         {
           "text": "Code of Conduct",
-          "url": "#",
+          "url": "/cod/",
           "newTab": false
         },
         {
@@ -78,8 +78,18 @@
           "newTab": true
         },
         {
-          "text": "Angular Bolivia community",
-          "url": "https://www.meetup.com/Angular-Bolivia",
+          "text": "GDG DevFest Ukraine 2013",
+          "url": "http://gdg-devfest-ua.appspot.com/",
+          "newTab": true
+        },
+        {
+          "text": "GDG DevFest Ukraine 2014",
+          "url": "http://devfest.gdg.org.ua/2014/",
+          "newTab": true
+        },
+        {
+          "text": "GDG DevFest Ukraine 2015",
+          "url": "http://devfest.gdg.org.ua/2015/",
           "newTab": true
         }
       ]
@@ -89,13 +99,13 @@
       "links": [
         {
           "text": "Partnership Proposition",
-          "url": "#",
-          "newTab": false
+          "url": "http://bit.ly/df16-sponsor",
+          "newTab": true
         },
         {
           "text": "Media Kit",
-          "url": "#",
-          "newTab": false
+          "url": "http://bit.ly/df16-media",
+          "newTab": true
         }
       ]
     }
@@ -112,7 +122,7 @@
   "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
   "statistics": [
     {
-      "counter": "250+",
+      "counter": 300,
       "caption": "Attendees"
     },
     {
@@ -120,11 +130,11 @@
       "caption": "Days"
     },
     {
-      "counter": "20+",
+      "counter": 20,
       "caption": "Sessions"
     },
     {
-      "counter": 2,
+      "counter": 3,
       "caption": "Tracks"
     }
   ],
