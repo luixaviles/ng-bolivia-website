@@ -58,7 +58,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 **Call for Papers will stay open until June 02, 2018.** Don’t miss out :)
 
 <div class="text-center">
-<a href="http://bit.ly/df16-c4p" target="_blank" class="style-scope header-content" style="color: white; ">
+<a href="https://goo.gl/forms/uXwYKchtKoFSldcy2" target="_blank" class="style-scope header-content" style="color: white; ">
   <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
 </a>
 </div>
