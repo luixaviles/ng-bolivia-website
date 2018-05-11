@@ -1,10 +1,10 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "https://ng-bolivia.org",
+  "startDate": "2018-05-05T09:00:00-04:00",
+  "endDate": "2018-08-05T19:00:00-04:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-119039264-1",
+    "dev": null
   },
   "organizer": {
     "name": "Angular Bolivia",
@@ -25,8 +25,8 @@
     "indexedDbSession": "hoverboard"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "https://ng-bolivia.us18.list-manage.com/subscribe/post?u=c936d9c2d7735e2d92050aaea&amp;id=8a9443bf81",
+    "name": "b_c936d9c2d7735e2d92050aaea_8a9443bf81"
   },
   "dateFormat": {
     "locale": "en-US",
@@ -49,15 +49,15 @@
     },
     {
       "route": "schedule",
-      "permalink": "/schedule/"
+      "permalink": "/#"
     },
     {
       "route": "speakers",
-      "permalink": "/speakers/"
+      "permalink": "/#"
     },
     {
       "route": "team",
-      "permalink": "/team/"
+      "permalink": "/#"
     }
   ],
   "social": [
@@ -79,7 +79,7 @@
   ],
   "location": {
     "apiKey": "AIzaSyAxLN_j_P9takxlRKIRs51GmuLDCIC8ZVg",
-    "name": "Hotel Camino Plaza, Cochabamba",
+    "name": "Camino Plaza Hotel, Cochabamba",
     "link": "https://www.facebook.com",
     "pointer": {
       "latitude": -17.368676,  

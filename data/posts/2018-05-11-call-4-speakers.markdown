@@ -55,7 +55,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 
 <br/>
 
-**Call for Papers will stay open until May 28, 2018.** Don’t miss out :)
+**Call for Papers will stay open until June 02, 2018.** Don’t miss out :)
 
 <div class="text-center">
 <a href="http://bit.ly/df16-c4p" target="_blank" class="style-scope header-content" style="color: white; ">
