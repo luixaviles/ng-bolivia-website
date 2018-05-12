@@ -66,6 +66,21 @@
           <div class="markdown-html"></div>
         </marked-element>
       </div>
+      <span class="divider"></span>
+      <div class="about-item">
+        <h4 class="heading">{$ subscribe $}</h4>
+        <div class="subscribe">
+            <span>{$ subscribeNote $}</span>
+            <mailchimp-subscribe
+              app="[[app]]"
+              url="{$ mailchimp.url $}"
+              name="{$ mailchimp.name $}">
+            </mailchimp-subscribe>
+        </div>
+        <marked-element markdown="{$ whySubscribe $}">
+          <div class="markdown-html"></div>
+        </marked-element>
+      </div>
     </div>
 
   </template>

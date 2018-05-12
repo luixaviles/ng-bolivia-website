@@ -78,6 +78,14 @@
         font-size: 18px;
         text-transform: uppercase;
       }
+      
+      .logo-desc {
+        font-size: 18px;
+      }
+      
+      .logo-desc-title {
+        font-size: 21px;
+      }
 
       .motto {
         margin-top: 20px;
@@ -130,11 +138,14 @@
     <app-toolbar>
       <neon-animated-pages attr-for-selected="name" selected="{{app.page}}">
         <animatable-content name="home">
-          <!-- <div class="container container-action-button" center-justified>
+          <div class="container container-action-button" center-justified>
             <div class="home-wrapper">
               <iron-image class="logo" src="/images/logo-light.svg" sizing="contain"
                           alt="GDG DevFest Ukraine 2016"></iron-image>
-              <h3 class="dates">{$ dates $}</h3>
+              <h3 class="logo-desc-title">NG BOLIVIA 2018</h3>
+              <h3 class="logo-desc">August 3rd - Workshops</h3>
+              <h3 class="logo-desc">August 4th - Conference</h3>
+              <!-- <h3 class="dates">{$ dates $}</h3> -->
               <h2 class="motto">{$ motto $}</h2>
               {% if pages.home.headerSettings.video %}
                 <div class="open-video" on-tap="_openVideo">
@@ -143,10 +154,10 @@
                 </div>
               {% endif %}
               <div class="action-buttons container-action-button">
-                <paper-button class="primary" on-tap="_scrollToTickets" raised>{$ buyTicket $}</paper-button>
+                <!-- <paper-button class="primary" on-tap="_scrollToTickets" raised>{$ buyTicket $}</paper-button> -->
               </div>
             </div>
-          </div> -->
+          </div>
 
            <!-- This is to enable Buy Ticket Option-->
           <!-- <div class="container" center-justified>
