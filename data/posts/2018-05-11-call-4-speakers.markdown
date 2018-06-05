@@ -55,7 +55,7 @@ Our team has prepared a set of interesting topics but if you have any cool idea 
 
 <br/>
 
-**The call for Papers will stay open until June 01, 2018. 23:59 Bolivian Time(UTC-4)** Don’t miss out :)
+**The call for Papers will stay open until June 14, 2018. 23:59 Bolivian Time(UTC-4)** Don’t miss out :)
 
 <div class="text-center">
 <a href="https://goo.gl/forms/uXwYKchtKoFSldcy2" target="_blank" class="style-scope header-content" style="color: white; ">
@@ -64,7 +64,7 @@ Our team has prepared a set of interesting topics but if you have any cool idea 
 </div>
 <br/>
 
-**Please note:** There is no guarantee that a submission will be put onto the conference agenda! The program committee picks the talk proposals and informs the selected submitters by June 10, 2018.
+**Please note:** There is no guarantee that a submission will be put onto the conference agenda! The program committee picks the talk proposals and informs the selected submitters by June 24, 2018.
 
 Any questions? Email organizers at [angular.bolivia@gmail.com](mailto:angular.bolivia@gmail.com)
 
