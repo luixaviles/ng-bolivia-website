@@ -98,7 +98,7 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#6002EE",
         "backgroundImage": "/images/backgrounds/ng-bolivia-home.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
