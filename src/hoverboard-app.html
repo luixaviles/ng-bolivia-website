@@ -57,6 +57,10 @@
       }
 
       app-header {
+        background-color: var(--header-background);
+        color: var(--header-color);
+        transition-property: transform, background-color, color, height;
+        z-index: 9;
         @apply(--layout-fixed-top);
         --app-header-background-front-layer: {
           background-image: var(--header-background-image);
@@ -66,10 +70,6 @@
         --app-header-background-rear-layer: {
           background-color: var(--header-background);
         };
-        background-color: var(--header-background);
-        color: var(--header-color);
-        transition-property: transform, background-color, color, height;
-        z-index: 9;
       }
 
       .image-overlay-wrapper {
