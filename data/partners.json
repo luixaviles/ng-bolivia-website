@@ -1,0 +1,38 @@
+{
+  "partners": [
+    {
+      "logos": [
+        {
+          "logoUrl": "../images/logos/partners/docker_cochabamba.png",
+          "name": "Docker Cochabamba",
+          "url": "https://es-la.facebook.com/dockercochabamba/"
+        },
+        {
+          "logoUrl": "../images/logos/partners/gdg_android_bolivia.png",
+          "name": "GDG Android Bolivia",
+          "url": "https://www.meetup.com/es/GDGAndroidBolivia/"
+        },
+        {
+          "logoUrl": "../images/logos/partners/gdg_cochabamba.png",
+          "name": "GDG Cochabamba",
+          "url": "http://www.gdg.com.bo/"
+        },
+        {
+          "logoUrl": "../images/logos/partners/gdg_la_paz.png",
+          "name": "GDG La Paz",
+          "url": "https://www.meetup.com/es/GDG-La-Paz/"
+        },
+        {
+          "logoUrl": "../images/logos/partners/gdg_santa_cruz.png",
+          "name": "GDG Santa Cruz",
+          "url": "http://www.gdgsantacruz.org/"
+        },
+        {
+          "logoUrl": "../images/logos/partners/scesi.png",
+          "name": "SCESI",
+          "url": "https://www.scesi.umss.edu.bo/"
+        }
+      ]
+    }
+  ]
+}
