@@ -1,0 +1,122 @@
+{
+  "speakers" : [ {
+    "badges" : [ {
+      "description" : "Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/jorge-cano",
+      "name" : "GDE"
+    } ],
+    "bio" : "After more than 9 years working in the tech industry, Jorge is a full stack developer with focus on JavaScript technologies. Today, Jorge is working at ByteDefault using Angular / RxJS / Firebase / Nativescript as well as other technologies. He delivered several courses and talks as well as write some tech articles on these subjects. Because of that, he was recognised as a Google Developer Expert in Angular & web technologies and Nativescript Developer Expert.",
+    "company" : "GDE",
+    "companyLogo" : "/images/logos/gde_experts.png",
+    "country" : "Buenos Aires, Argentina",
+    "featured" : true,
+    "id" : 1,
+    "name" : "Jorge Cano",
+    "photoUrl" : "/images/people/speakers/jorge_cano.jpg",
+    "shortBio" : "Jorge is a full stack developer with focus on JavaScript technologies...",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/113358190243424333291",
+      "name" : "Google+"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/@jorgeucano",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://ar.linkedin.com/in/jorge-cano-06441015",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/jorgeucano",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Angular", "Firebase", "Web" ],
+    "title" : "Google Developer Expert"
+  }, {
+    "badges" : [ {
+      "description" : "Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/josue-gutierrez",
+      "name" : "GDE"
+    } ],
+    "bio" : "Josue has been a software developer during the last 10 years working for companies in Mexico and USA, now he is specialized in web development, data visualization and e-commerce systems/strategies, also he is part of the Google Developer Expert program.",
+    "company" : "GDE",
+    "companyLogo" : "/images/logos/gde_experts.png",
+    "country" : "Mexico City, Mexico",
+    "featured" : true,
+    "id" : 2,
+    "name" : "Josue Gutierrez",
+    "photoUrl" : "/images/people/speakers/josue_gutierrez.jpg",
+    "shortBio" : "Josue has been a software developer during the last 10 years working for companies in Mexico and USA...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/eusoj",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/112879101088263231793",
+      "name" : "Google+"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/josueggh",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Javascript", "AngularJS", "Polymer", "Software architecture", "Data visualization" ],
+    "title" : "Google Developer Expert"
+  }, {
+    "badges" : [ {
+      "description" : "Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/juan-herrera",
+      "name" : "GDE"
+    } ],
+    "bio" : "Juan is a Colombian-based software engineer and the organizer of the first Angular conference in Latin America: NgColombia. Juan strongly believes in community efforts as enablers for social change, that's why he runs Angular Medellin, one of the most successful meetups in the region with a participation rate of +100 people per month where he is constantly encouraging members to improve their professional skills. At Yuxi Global, Juan is the Head of Front-end Development with the responsibility of training in-house teams and providing consultancy on how to build professional Angular solutions for american clients. In his spare time, Juan loves to talk about psychology, philosophy, and spirituality. Also, he is an avid dancer and musician.",
+    "company" : "GDE",
+    "companyLogo" : "/images/logos/gde_experts.png",
+    "country" : "Medellín, Colombia",
+    "featured" : true,
+    "id" : 3,
+    "name" : "Juan Herrera",
+    "photoUrl" : "/images/people/speakers/juan_herrera.jpg",
+    "shortBio" : "Juan is a Colombian-based software engineer and the organizer of the first Angular conference in Latin America...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/jdjuan",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/114120152894429017138",
+      "name" : "Google+"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/juandavidherrera/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/jdjuan",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Angular", "RxJS", "Front-end Architecture", "Public Speaking", "Conference Organizing", "TypeScript" ],
+    "title" : "Google Developer Expert"
+  }, {
+    "bio" : "Israel’s been programming for the past 24 years, and he’s worked with Angular since the alphas and AngularJS for over 6 years. He made the first AngularJS Youtube channel in Spanish, and he is a former Mexico City’s Angular Meetups' organizer.",
+    "company" : "UBro Apps",
+    "companyLogo" : "/images/logos/ubro_apps.png",
+    "country" : "Mexico City, Mexico",
+    "featured" : true,
+    "id" : 4,
+    "name" : "Israel Guzmán",
+    "photoUrl" : "/images/people/speakers/israel_guzman.jpg",
+    "shortBio" : "Israel’s been programming for the past 24 years, and he’s worked with Angular...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/israelgp4",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/GUzmanPI",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Angular", "TypeScript", "Javascript" ],
+    "title" : "Software Engineer"
+  } ]
+}
