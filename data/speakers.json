@@ -165,7 +165,36 @@
         "TypeScript",
         "Javascript"
       ],
-      "title": "Software Engineer"
+      "title": "CTO"
+    },
+    {
+      "bio": "Front End Senior developer working at YUXI Global. Co-organizer and MC for Angular Medellin. Industrial designer passionate about UX-UI 3D design, and 2D animations. He is a lover of scietific knowledge, and a charismatic speaker.",
+      "company": "YUXI Global",
+      "companyLogo": "/images/logos/yuxi_global.svg",
+      "country": "Medellín, Colombia",
+      "featured": true,
+      "id": 5,
+      "name": "Carlos Angulo",
+      "photoUrl": "/images/people/speakers/carlos_angulo.jpg",
+      "shortBio": "Carlos is a Front End Senior developer working at YUXI Global...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/carlosacns",
+          "name": "Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/CarlosAngulo/",
+          "name": "GitHub"
+        }
+      ],
+      "tags": [
+        "Angular",
+        "TypeScript",
+        "Javascript"
+      ],
+      "title": "Senior Front End developer"
     }
   ]
 }
