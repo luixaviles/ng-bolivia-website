@@ -3,6 +3,26 @@
     {
       "logos": [
         {
+          "logoUrl": "../images/logos/partners/ngbaires.jpg",
+          "name": "NG-Baires",
+          "url": "https://twitter.com/ngbaires"
+        },
+        {
+          "logoUrl": "../images/logos/partners/angular_mexico.jpg",
+          "name": "GDG Angular Mexico",
+          "url": "https://twitter.com/angularmexico"
+        },
+        {
+          "logoUrl": "../images/logos/partners/angular_medellin.jpg",
+          "name": "Angular Medellin",
+          "url": "https://twitter.com/AngularMedellin"
+        },
+        {
+          "logoUrl": "../images/logos/partners/angular_chile.jpg",
+          "name": "Angular Chile",
+          "url": "https://twitter.com/angularChile"
+        },
+        {
           "logoUrl": "../images/logos/partners/docker_cochabamba.png",
           "name": "Docker Cochabamba",
           "url": "https://es-la.facebook.com/dockercochabamba/"
