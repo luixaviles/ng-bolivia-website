@@ -16,7 +16,7 @@
       "id": 1,
       "name": "Jorge Cano",
       "photoUrl": "/images/people/speakers/jorge_cano.jpg",
-      "shortBio": "Jorge is a full stack developer with focus on JavaScript technologies...",
+      "shortBio": "After more than 9 years working in the tech industry, Jorge is a full stack developer with focus on JavaScript technologies...",
       "socials": [
         {
           "icon": "gplus",
@@ -102,7 +102,7 @@
       "id": 3,
       "name": "Andrés Villanueva",
       "photoUrl": "/images/people/speakers/andres_villanueva.jpg",
-      "shortBio": "Andrés is a passionate Web Developer, who started to feel interested in technology approximately in 2012, and especially Google technology, when in that same year he knows Google App Scripts. Venezuelan based in Argentina...",
+      "shortBio": "Venezuelan based in Argentina, Andrés is a passionate Web Developer, who started to feel interested in technology approximately in 2012...",
       "socials": [
         {
           "icon": "twitter",
@@ -179,7 +179,7 @@
       "title": "Google Developer Expert"
     },
     {
-      "bio": "Israel’s been programming for the past 24 years, and he’s worked with Angular since the alphas and AngularJS for over 6 years. He made the first AngularJS Youtube channel in Spanish, and he is a former Mexico City’s Angular Meetups' organizer.",
+      "bio": "Israel has been programming for the past 24 years and he was working with Angular since the alphas and AngularJS for over 6 years. He made the first AngularJS Youtube channel in Spanish, and he is a former Mexico City’s Angular Meetups' organizer.",
       "company": "UBro Apps",
       "companyLogo": "/images/logos/ubro_apps.png",
       "country": "Mexico City, Mexico",
@@ -187,7 +187,7 @@
       "id": 5,
       "name": "Israel Guzmán",
       "photoUrl": "/images/people/speakers/israel_guzman.jpg",
-      "shortBio": "Israel’s been programming for the past 24 years, and he’s worked with Angular...",
+      "shortBio": "Israel has been programming for the past 24 years and he was working with Angular since the alphas...",
       "socials": [
         {
           "icon": "twitter",
@@ -215,7 +215,7 @@
       "id": 6,
       "name": "Carlos Angulo",
       "photoUrl": "/images/people/speakers/carlos_angulo.jpg",
-      "shortBio": "Carlos is a Front End Senior developer working at YUXI Global...",
+      "shortBio": "Carlos is a Front End Senior developer working at YUXI Global. Co-organizer and MC for Angular Medellin. Industrial designer passionate about UX-UI 3D design...",
       "socials": [
         {
           "icon": "twitter",

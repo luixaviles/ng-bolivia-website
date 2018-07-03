@@ -36,9 +36,15 @@
     "title" : "Advanced components/directives with the CDK"
   },
   "105" : {
-    "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
+    "description" : "Registry",
     "id" : 105,
-    "image" : "/images/backgrounds/registration.jpg",
-    "title" : "Registro"
+    "image" : "/images/backgrounds/opening.jpg",
+    "title" : "Registry"
+  },
+  "106" : {
+    "description" : "Registry",
+    "id" : 106,
+    "image" : "/images/backgrounds/opening.jpg",
+    "title" : "Registry"
   }
 }

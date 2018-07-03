@@ -1,17 +1,22 @@
 [
   {
     "date" : "2018-09-03",
-    "dateReadable" : "August 3",
+    "dateReadable" : "August 3. Workshops",
     "timeslots" : [
       {
         "startTime" : "08:00",
         "endTime" : "08:30",
-        "sessions" : [ [ 105 ] ]
+        "sessions" : [ [ 105 ], [ 106] ]
       },
       {
         "startTime" : "08:30",
         "endTime" : "12:30",
         "sessions" : [ [ 101 ], [ 103 ] ]
+      },
+      {
+        "startTime" : "13:30",
+        "endTime" : "14:00",
+        "sessions" : [ [ 105 ], [ 106 ] ]
       },
       {
         "startTime" : "14:00",
@@ -21,10 +26,10 @@
     ],
     "tracks" : [
       {
-        "title" : "Laboratorio 1"
+        "title" : "Laboratory 1"
       },
       {
-        "title" : "Laboratorio 2"
+        "title" : "Laboratory 2"
       }
     ]
   }
