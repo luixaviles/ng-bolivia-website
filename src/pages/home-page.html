@@ -29,6 +29,9 @@
     <latest-posts app="{{app}}" posts="{{posts}}" cascaded></latest-posts>
     <statistics-block app="{{app}}" cascaded></statistics-block>
     <featured-people app="{{app}}" people="{{people}}" cascaded></featured-people>
+    {% if gallery %}
+      <photo-block app="{{app}}" cascaded></photo-block>
+    {% endif %}
     {% if videosSessionsUrl %}
       <!-- <featured-videos app="{{app}}" cascaded></featured-videos> -->
     {% endif %}
@@ -36,9 +39,6 @@
       <!-- <call-to-action app="{{app}}" cascaded></call-to-action> -->
     {% endif %}
     <about-block app="{{app}}" cascaded></about-block>
-    {% if gallery %}
-      <photo-block app="{{app}}" cascaded></photo-block>
-    {% endif %}
     <!-- <tickets-block app="{{app}}" cascaded></tickets-block> -->
     <social-feed app="{{app}}" cascaded></social-feed>
     <map-block app="{{app}}" selected="{{selected}}" cascaded></map-block>
