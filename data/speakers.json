@@ -42,7 +42,7 @@
       "tags": [
         "Angular",
         "Firebase",
-        "Web"
+        "Architecture"
       ],
       "title": "Google Developer Expert"
     },
@@ -81,11 +81,8 @@
         }
       ],
       "tags": [
-        "Javascript",
-        "AngularJS",
-        "Polymer",
-        "Software architecture",
-        "Data visualization"
+        "Angular",
+        "Architecture"
       ],
       "title": "Google Developer Expert"
     },
@@ -130,11 +127,7 @@
       ],
       "tags": [
         "Firebase",
-        "Angular",
-        "Javascript",
-        "HTML5",
-        "Web Development",
-        "Public Speaking"
+        "Angular"
       ],
       "title": "Google Developer Expert"
     },
@@ -180,9 +173,7 @@
       "tags": [
         "Angular",
         "RxJS",
-        "Front-end Architecture",
-        "Public Speaking",
-        "Conference Organizing",
+        "Architecture",
         "TypeScript"
       ],
       "title": "Google Developer Expert"
@@ -211,8 +202,7 @@
       ],
       "tags": [
         "Angular",
-        "TypeScript",
-        "Javascript"
+        "TypeScript"
       ],
       "title": "CTO"
     },
@@ -240,8 +230,7 @@
       ],
       "tags": [
         "Angular",
-        "TypeScript",
-        "Javascript"
+        "TypeScript"
       ],
       "title": "Senior Front End developer"
     }
