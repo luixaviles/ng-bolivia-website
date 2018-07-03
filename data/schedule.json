@@ -4,6 +4,11 @@
     "dateReadable" : "August 3",
     "timeslots" : [
       {
+        "startTime" : "08:00",
+        "endTime" : "08:30",
+        "sessions" : [ [ 105 ] ]
+      },
+      {
         "startTime" : "08:30",
         "endTime" : "12:30",
         "sessions" : [ [ 101 ], [ 103 ] ]
