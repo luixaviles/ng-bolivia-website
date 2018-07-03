@@ -57,12 +57,27 @@
         <marked-element markdown="{$ aboutOrganizers $}">
           <div class="markdown-html"></div>
         </marked-element>
-        <a class="page-link" href="/team">{$ openTeamPage $}</a>
+        <a class="page-link" href="/#">{$ openTeamPage $}</a>
       </div>
       <span class="divider"></span>
       <div class="about-item">
         <h4 class="heading">{$ whatIsGdg $}</h4>
         <marked-element markdown="{$ aboutGdg $}">
+          <div class="markdown-html"></div>
+        </marked-element>
+      </div>
+      <span class="divider"></span>
+      <div class="about-item">
+        <h4 class="heading">{$ subscribe $}</h4>
+        <div class="subscribe">
+            <span>{$ subscribeNote $}</span>
+            <mailchimp-subscribe
+              app="[[app]]"
+              url="{$ mailchimp.url $}"
+              name="{$ mailchimp.name $}">
+            </mailchimp-subscribe>
+        </div>
+        <marked-element markdown="{$ whySubscribe $}">
           <div class="markdown-html"></div>
         </marked-element>
       </div>

@@ -1,0 +1,44 @@
+{
+  "101" : {
+    "complexity" : "Intermediate",
+    "description" : "In this workshop I'll be showing how to use, understand and follow the best practices to use Typescript in the real life.",
+    "id" : 101,
+    "language" : "Spanish",
+    "speakers" : [1],
+    "tags" : [ "Typescript"],
+    "title" : "Become a Typescript Jedi"
+  },
+  "102" : {
+    "complexity" : "Intermediate",
+    "description" : "En el taller veremos desde los cimientos, cómo trabajar y comprender el funcionamiento de RxJS. El único conocimiento previo que necesita es comprender un poco de JavaScript.",
+    "id" : 102,
+    "language" : "Spanish",
+    "speakers" : [0],
+    "tags" : [ "Rxjs" ],
+    "title" : "RxJS like a boss reloaded"
+  },
+  "103" : {
+    "complexity" : "Intermediate",
+    "description" : "Aprende a escribir aplicaciones mantenibles en Angular independientemente del tamaño de tu equipo y su complejidad, utilizando los mejores consejos de diseño de architecturas.  \n En este taller vas a construir una aplicación que requerirá de todos tus conocimientos en escalabilidad y mantenibilidad. Bajo un formato de concuros, los participantes recibirán puntos cada vez que tomen la decisión correcta al momento de escribir código, el ganador toma el precio y se lleva la gloria eterna. \n En esta workshop escribirás código y aprenderás a: \n- Manejar el crecimiento de tu base de código de manera eficiente \n- Usar las mejores prácticas en módulo \n - Nombrar las variables de manera correcta \n- Gestionar el estado de tu aplicación efectivamente \n- Escalar tu estructura de carpetas \n- Imponer estándares de código \n- Reutilizar tu código al máximo",
+    "id" : 103,
+    "language" : "Spanish",
+    "speakers" : [3],
+    "tags" : [ "Architecture" ],
+    "title" : "Building Scalable Angular Architectures"
+  },
+  "104" : {
+    "complexity" : "Intermediate",
+    "description" : "In this workshop, attendees will learn how to build a component with Angular Material CDK, as well as some advanced directives.",
+    "id" : 104,
+    "language" : "Spanish",
+    "speakers" : [4],
+    "tags" : [ "UI" ],
+    "title" : "Advanced components/directives with the CDK"
+  },
+  "105" : {
+    "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
+    "id" : 105,
+    "image" : "/images/backgrounds/registration.jpg",
+    "title" : "Registro"
+  }
+}

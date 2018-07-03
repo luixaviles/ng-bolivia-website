@@ -1,10 +1,10 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "https://ng-bolivia.org",
+  "startDate": "2018-05-05T09:00:00-04:00",
+  "endDate": "2018-08-05T19:00:00-04:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-119039264-1",
+    "dev": null
   },
   "organizer": {
     "name": "Angular Bolivia",
@@ -16,23 +16,23 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "angelic-bond-209009",
+    "domain": "angelic-bond-209009.firebaseapp.com",
+    "database": "https://angelic-bond-209009.firebaseio.com",
+    "api": "AIzaSyAAQ711Wcj53QxVzXvViBXGUhA9uY5_qx8",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "https://ng-bolivia.us18.list-manage.com/subscribe/post?u=c936d9c2d7735e2d92050aaea&amp;id=8a9443bf81",
+    "name": "b_c936d9c2d7735e2d92050aaea_8a9443bf81"
   },
   "dateFormat": {
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
+  "hashtag": "ngBolivia2018",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -44,50 +44,41 @@
       "permalink": "/"
     },
     {
-      "route": "blog",
-      "permalink": "/blog/"
+      "route": "speakers",
+      "permalink": "/speakers/"
     },
     {
       "route": "schedule",
       "permalink": "/schedule/"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/"
+      "route": "blog",
+      "permalink": "/blog/"
     }
   ],
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "angularBolivia",
+      "url": "https://twitter.com/angularBolivia"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "107919070731517228434",
+      "url": "https://plus.google.com/communities/107919070731517228434"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "angular.bolivia",
+      "url": "https://www.facebook.com/angular.bolivia"
     }
   ],
   "location": {
     "apiKey": "AIzaSyAxLN_j_P9takxlRKIRs51GmuLDCIC8ZVg",
-    "name": "Hotel Camino Plaza, Cochabamba",
+    "name": "Camino Plaza Hotel, Cochabamba",
     "link": "https://www.facebook.com",
     "pointer": {
-      "latitude": -17.368676,  
+      "latitude": -17.368676,
       "longitude": -66.163414,
       "zoom": 18
     },
@@ -102,12 +93,12 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://www.meetup.com/Angular-Bolivia/photos",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/meetup/2018_1.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/meetup/2018_2.jpg",
+        "/images/backgrounds/meetup/2018_3.jpg"
       ]
     }
   },
@@ -115,15 +106,11 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundColor": "#6002EE",
+        "backgroundImage": "/images/backgrounds/ng-bolivia-home.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
-        },
+        "video": null,
         "hideLogo": true,
         "minHeight": "360px"
       }

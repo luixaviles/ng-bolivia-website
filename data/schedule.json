@@ -1,0 +1,31 @@
+[
+  {
+    "date" : "2018-09-03",
+    "dateReadable" : "August 3",
+    "timeslots" : [
+      {
+        "startTime" : "08:00",
+        "endTime" : "08:30",
+        "sessions" : [ [ 105 ] ]
+      },
+      {
+        "startTime" : "08:30",
+        "endTime" : "12:30",
+        "sessions" : [ [ 101 ], [ 103 ] ]
+      },
+      {
+        "startTime" : "14:00",
+        "endTime" : "18:00",
+        "sessions" : [ [ 102 ], [ 104 ] ]
+      }
+    ],
+    "tracks" : [
+      {
+        "title" : "Laboratorio 1"
+      },
+      {
+        "title" : "Laboratorio 2"
+      }
+    ]
+  }
+]

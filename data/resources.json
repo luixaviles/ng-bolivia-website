@@ -1,15 +1,16 @@
 {
-  "title": "GDG DevFest Season 2016",
+  "title": "NG Bolivia 2018",
   "description": "The biggest Angular conference in Bolivia carefully crafted for you and by Angular community! All about Angular and Web from the world experts",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "keywords": "angular, conference, event, community, gde, google, programming, developers, web, typescript, mobile, cloud",
   "dates": "August 3-4, 2018",
   "locationAddressShort": "Cochabamba, Bolivia",
-  "motto": "Be an Angular Hero!",
+  "motto": "Cochabamba, Bolivia",
   "playIcon": "See how it was in 2015",
   "c4p": "Become a speaker",
   "buyTicket": "Buy ticket",
   "backToTop": "Back to top",
   "subscribe": "Subscribe",
+  "whySubscribe": "Subscribe to be the first to know about the Conference. Follow us on Twitter: <a href='https://twitter.com/angularBolivia' target='_blank'>@angularBolivia</a>",
   "yourEmail": "Your email",
   "subscribeNote": "No spam, only the latest news and updates!",
   "contactUs": "Contact us",
@@ -21,18 +22,18 @@
   "socialMotto": "Add to circles, like, follow or connect with us on",
   "beforeHashtag": "What's up",
   "clickToViewPhotos": "Click here to view more photos",
-  "partners": "Partners",
+  "partners": "Community Partners",
   "becomePartner": "Become a partner",
   "featuredVideosTitle": "Featured #DFUA '15 Sessions",
   "featuredVideosViewAll": "View all videos",
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
-  "locationTitle": "Hotel Camino Plaza",
-  "locationDescription": "Estamos en la plazuela de Cala Cala, una de las mejores zonas de Cochabamba.",
+  "locationTitle": "Camino Plaza Hotel",
+  "locationDescription": "We are in the square of Cala Cala, one of the best areas of Cochabamba city.",
   "locationAddress": "Calle Huallparimachi 1862",
   "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='https://www.meetup.com/Angular-Bolivia/' target='_blank'>Angular Bolivia</a> with support of more than 600 members is proud organizer of NG-Bolivia conference.",
+  "aboutOrganizers": "<a href='https://www.meetup.com/Angular-Bolivia/' target='_blank'>Angular Bolivia</a> with support of more than 700 members is proud organizer of NG-Bolivia conference.",
   "openTeamPage": "Open team page",
   "whatIsGdg": "What is Angular Bolivia?",
   "aboutGdg": "Angular Bolivia - is an open geek community who share experiences about Angular and Web technologies with passion.",
@@ -64,12 +65,12 @@
       "links": [
         {
           "text": "Team",
-          "url": "/team/",
+          "url": "#",
           "newTab": false
         },
         {
           "text": "Code of Conduct",
-          "url": "/cod/",
+          "url": "#",
           "newTab": false
         },
         {
@@ -78,18 +79,8 @@
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "text": "Angular Bolivia community",
+          "url": "https://www.meetup.com/Angular-Bolivia",
           "newTab": true
         }
       ]
@@ -99,13 +90,13 @@
       "links": [
         {
           "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
+          "url": "#",
+          "newTab": false
         },
         {
           "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
-          "newTab": true
+          "url": "#",
+          "newTab": false
         }
       ]
     }
@@ -113,8 +104,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "angular.bolivia@gmail.com",
+        "url": "mailto:angular.bolivia@gmail.com"
       }
     ]
   },
@@ -122,7 +113,7 @@
   "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
   "statistics": [
     {
-      "counter": 300,
+      "counter": "250+",
       "caption": "Attendees"
     },
     {
@@ -130,11 +121,11 @@
       "caption": "Days"
     },
     {
-      "counter": 20,
+      "counter": "20+",
       "caption": "Sessions"
     },
     {
-      "counter": 3,
+      "counter": 2,
       "caption": "Tracks"
     }
   ],
