@@ -14,7 +14,7 @@
     "id" : 102,
     "language" : "Spanish",
     "speakers" : [0],
-    "tags" : [ "RxJS" ],
+    "tags" : [ "Rxjs" ],
     "title" : "RxJS like a boss reloaded"
   },
   "103" : {
@@ -32,7 +32,13 @@
     "id" : 104,
     "language" : "Spanish",
     "speakers" : [4],
-    "tags" : [ "UI/UX" ],
+    "tags" : [ "UI" ],
     "title" : "Advanced components/directives with the CDK"
+  },
+  "105" : {
+    "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
+    "id" : 105,
+    "image" : "/images/backgrounds/registration.jpg",
+    "title" : "Registro"
   }
 }
