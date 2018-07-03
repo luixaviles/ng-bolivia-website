@@ -93,6 +93,55 @@
       "badges": [
         {
           "description": "Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/andres-villanueva",
+          "name": "GDE"
+        }
+      ],
+      "bio": "Andrés is a passionate Web Developer, who started to feel interested in technology approximately in 2012, and especially Google technology, when in that same year he knows Google App Scripts. Venezuelan based in Argentina, \"El Pana\", as they know him in the environment of the Javascript communities of Buenos Aires, is considered an eternal beginner, a condition that drives him to always be in constant learning.",
+      "company": "GDE",
+      "companyLogo": "/images/logos/gde_experts.png",
+      "country": "Barcelona, Venezuela",
+      "featured": true,
+      "id": 3,
+      "name": "Andrés Villanueva",
+      "photoUrl": "/images/people/speakers/andres_villanueva.jpg",
+      "shortBio": "Andrés is a passionate Web Developer, who started to feel interested in technology approximately in 2012, and especially Google technology, when in that same year he knows Google App Scripts. Venezuelan based in Argentina...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/villanuevand",
+          "name": "Twitter"
+        },
+        {
+          "icon": "gplus",
+          "link": "https://plus.google.com/117570038424252253756",
+          "name": "Google+"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/andresvillanuevab/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/Villanuevand",
+          "name": "GitHub"
+        }
+      ],
+      "tags": [
+        "Firebase",
+        "Angular",
+        "Javascript",
+        "HTML5",
+        "Web Development",
+        "Public Speaking"
+      ],
+      "title": "Google Developer Expert"
+    },
+    {
+      "badges": [
+        {
+          "description": "Google Developer Expert",
           "link": "https://developers.google.com/experts/people/juan-herrera",
           "name": "GDE"
         }
@@ -102,7 +151,7 @@
       "companyLogo": "/images/logos/gde_experts.png",
       "country": "Medellín, Colombia",
       "featured": true,
-      "id": 3,
+      "id": 4,
       "name": "Juan Herrera",
       "photoUrl": "/images/people/speakers/juan_herrera.jpg",
       "shortBio": "Juan is a Colombian-based software engineer and the organizer of the first Angular conference in Latin America...",
@@ -144,7 +193,7 @@
       "companyLogo": "/images/logos/ubro_apps.png",
       "country": "Mexico City, Mexico",
       "featured": true,
-      "id": 4,
+      "id": 5,
       "name": "Israel Guzmán",
       "photoUrl": "/images/people/speakers/israel_guzman.jpg",
       "shortBio": "Israel’s been programming for the past 24 years, and he’s worked with Angular...",
@@ -173,7 +222,7 @@
       "companyLogo": "/images/logos/yuxi_global.svg",
       "country": "Medellín, Colombia",
       "featured": true,
-      "id": 5,
+      "id": 6,
       "name": "Carlos Angulo",
       "photoUrl": "/images/people/speakers/carlos_angulo.jpg",
       "shortBio": "Carlos is a Front End Senior developer working at YUXI Global...",
