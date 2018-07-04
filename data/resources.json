@@ -22,7 +22,7 @@
   "socialMotto": "Add to circles, like, follow or connect with us on",
   "beforeHashtag": "What's up",
   "clickToViewPhotos": "Click here to view more photos",
-  "partners": "Community Partners",
+  "partners": "Partners",
   "becomePartner": "Become a partner",
   "featuredVideosTitle": "Featured #DFUA '15 Sessions",
   "featuredVideosViewAll": "View all videos",
@@ -64,13 +64,8 @@
       "title": "For visitors",
       "links": [
         {
-          "text": "Team",
-          "url": "#",
-          "newTab": false
-        },
-        {
           "text": "Code of Conduct",
-          "url": "#",
+          "url": "/code-of-conduct/",
           "newTab": false
         },
         {
@@ -82,21 +77,6 @@
           "text": "Angular Bolivia community",
           "url": "https://www.meetup.com/Angular-Bolivia",
           "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "For Partners",
-      "links": [
-        {
-          "text": "Partnership Proposition",
-          "url": "#",
-          "newTab": false
-        },
-        {
-          "text": "Media Kit",
-          "url": "#",
-          "newTab": false
         }
       ]
     }
