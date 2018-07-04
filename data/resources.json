@@ -64,13 +64,8 @@
       "title": "For visitors",
       "links": [
         {
-          "text": "Team",
-          "url": "#",
-          "newTab": false
-        },
-        {
           "text": "Code of Conduct",
-          "url": "#",
+          "url": "/cod/",
           "newTab": false
         },
         {
@@ -90,13 +85,8 @@
       "links": [
         {
           "text": "Partnership Proposition",
-          "url": "#",
-          "newTab": false
-        },
-        {
-          "text": "Media Kit",
-          "url": "#",
-          "newTab": false
+          "url": "https://drive.google.com/open?id=1TzIzNMvSnUV-5TRQXRe9kQxmHayAqAnY",
+          "newTab": true
         }
       ]
     }
