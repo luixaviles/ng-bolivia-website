@@ -65,6 +65,29 @@
     </style>
 
     <div class="container">
+      <h4 class="heading text-center">{$ sponsors $}</h4>
+      <template is="dom-repeat" items="[[app.sponsors]]" as="block">
+        <div class="logos-block-wrapper">
+          <h5 class="logos-block-title text-center">[[block.title]]</h5>
+          <div class="logos">
+            <template is="dom-repeat" items="[[block.logos]]" as="logo">
+              <a class="logo-item" href="[[logo.url]]" title="[[logo.name]]" target="_blank" rel="noopener noreferrer">
+                <iron-image
+                  class$="logo-img [[block.logosClass]]"
+                  src="[[logo.logoUrl]]"
+                  width$="{{logo.width}}"
+                  height$="{{logo.height}}"
+                  sizing="contain"
+                  preload fade
+                ></iron-image>
+              </a>
+            </template>
+          </div>
+        </div>
+      </template>
+    </div>
+
+    <div class="container">
       <h4 class="heading text-center">{$ partners $}</h4>
       <template is="dom-repeat" items="[[app.partners]]" as="block">
         <div class="logos-block-wrapper">
@@ -85,9 +108,6 @@
           </div>
         </div>
       </template>
-      <!-- <a class="block-link" href="{$ partnershipProposition $}" target="_blank" rel="noopener noreferrer" on-tap="_trackClick">
-        <paper-button class="primary" raised>{$ becomePartner $}</paper-button>
-      </a> -->
     </div>
 
   </template>
@@ -99,10 +119,6 @@
       Polymer({
 
         is: 'logos-block',
-
-        _trackClick: function () {
-          HOVERBOARD.Analytics.trackEvent('sponsors', 'open proposition', 'Become a partner');
-        }
 
       });
 
