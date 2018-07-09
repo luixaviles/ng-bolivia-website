@@ -56,11 +56,25 @@
       data="{{_firebasePartners}}">
     </firebase-query>
 
+    <firebase-query
+      id="querySponsors"
+      app-name="{$ firebase.name $}"
+      path="/sponsors"
+      data="{{_firebaseSponsors}}">
+    </firebase-query>
+
     <app-indexeddb-mirror
       session="{$ firebase.indexedDbSession $}"
       key="partners"
       data="{{_firebasePartners}}"
       persisted-data="{{app.partners}}">
+    </app-indexeddb-mirror>
+
+    <app-indexeddb-mirror
+      session="{$ firebase.indexedDbSession $}"
+      key="sponsors"
+      data="{{_firebaseSponsors}}"
+      persisted-data="{{app.sponsors}}">
     </app-indexeddb-mirror>
 
     <!-- Save requests if we do not display videos -->

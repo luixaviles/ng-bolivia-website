@@ -16,10 +16,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "angelic-bond-209009",
-    "domain": "angelic-bond-209009.firebaseapp.com",
-    "database": "https://angelic-bond-209009.firebaseio.com",
-    "api": "AIzaSyAAQ711Wcj53QxVzXvViBXGUhA9uY5_qx8",
+    "name": "ng-bolivia-dev",
+    "domain": "ng-bolivia-dev.firebaseapp.com",
+    "database": "https://ng-bolivia-dev.firebaseio.com",
+    "api": "AIzaSyBpWsI4-0UlEopsT8_pkfzFqs3O5Wc-b-E",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"

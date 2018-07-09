@@ -1,21 +1,5 @@
 [
   {
-    "title": "Blaze Sponsors",
-    "logos": [
-      {
-        "logoUrl": "../images/logos/partners/jetbrains.png",
-        "name": "Jet Brains",
-        "url": "https://www.jetbrains.com/company/"
-      },
-      {
-        "logoUrl": "../images/logos/partners/digitalocean.png",
-        "name": "Digital Ocean",
-        "url": "https://www.digitalocean.com/about/"
-      }
-    ]
-  },
-  {
-    "title": "Community",
     "logos": [
       {
         "logoUrl": "../images/logos/partners/ngbaires.jpg",
