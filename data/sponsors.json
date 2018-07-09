@@ -1,67 +1,45 @@
-[
-  {
-    "title": "Gold",
-    "logos": [
-      {
-        "logoUrl": "../images/logos/partners/jetbrains.png",
-        "name": "Scalable Path, Inc.",
-        "url": "https://www.scalablepath.com/"
-      },
-      {
-        "logoUrl": "../images/logos/partners/digitalocean.png",
-        "name": "EDteam",
-        "url": "https://ed.team/"
-      }
-    ]
-  },
-  {
-    "title": "Silver",
-    "logos": [
-      {
-        "logoUrl": "../images/logos/partners/jetbrains.png",
-        "name": "Jala",
-        "url": "www.jalasoft.com"
-      },
-      {
-        "logoUrl": "../images/logos/partners/digitalocean.png",
-        "name": "Digital Ocean",
-        "url": "https://www.digitalocean.com/about/"
-      }
-    ]
-  },
-  {
-    "title": "Bronze",
-    "logos": [
-      {
-        "logoUrl": "../images/logos/partners/jetbrains.png",
-        "name": "TRUEXTEND",
-        "url": "https://www.truextend.com/"
-      },
-      {
-        "logoUrl": "../images/logos/partners/digitalocean.png",
-        "name": "TOPTAL",
-        "url": "https://www.toptal.com/ng-bolivia"
-      },
-      {
-        "logoUrl": "../images/logos/partners/digitalocean.png",
-        "name": "HOTEL CAMINO PLAZA",
-        "url": "https://caminoplaza.com"
-      }
-    ]
-  },
-  {
-    "title": "Partner",
-    "logos": [
-      {
-        "logoUrl": "../images/logos/partners/jetbrains.png",
-        "name": "Jet Brains",
-        "url": "https://www.jetbrains.com/company/"
-      },
-      {
-        "logoUrl": "../images/logos/partners/digitalocean.png",
-        "name": "Digital Ocean",
-        "url": "https://www.digitalocean.com/about/"
-      }
-    ]
-  }
-]
+[ {
+  "logos" : [ {
+    "logoUrl" : "../images/logos/partners/scalable.png",
+    "name" : "Scalable Path, Inc.",
+    "url" : "https://www.scalablepath.com/"
+  }, {
+    "logoUrl" : "../images/logos/partners/edteam.svg",
+    "name" : "EDteam",
+    "url" : "https://ed.team/"
+  } ],
+  "title" : "Gold"
+}, {
+  "logos" : [ {
+    "logoUrl" : "../images/logos/partners/jala.jpg",
+    "name" : "Jala",
+    "url" : "http://www.jalasoft.com/"
+  } ],
+  "title" : "Silver"
+}, {
+  "logos" : [ {
+    "logoUrl" : "../images/logos/partners/truextend.jpeg",
+    "name" : "TRUEXTEND",
+    "url" : "https://www.truextend.com/"
+  }, {
+    "logoUrl" : "../images/logos/partners/toptal-logo.png",
+    "name" : "TOPTAL",
+    "url" : "https://www.toptal.com/ng-bolivia"
+  }, {
+    "logoUrl" : "../images/logos/partners/camino-plaza.png",
+    "name" : "HOTEL CAMINO PLAZA",
+    "url" : "https://caminoplaza.com"
+  } ],
+  "title" : "Bronze"
+}, {
+  "logos" : [ {
+    "logoUrl" : "../images/logos/partners/jetbrains.png",
+    "name" : "Jet Brains",
+    "url" : "https://www.jetbrains.com/company/"
+  }, {
+    "logoUrl" : "../images/logos/partners/digitalocean.png",
+    "name" : "Digital Ocean",
+    "url" : "https://www.digitalocean.com/about/"
+  } ],
+  "title" : "Partner"
+} ]
