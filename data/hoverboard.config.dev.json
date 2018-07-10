@@ -1,0 +1,159 @@
+{
+  "url": "https://ng-bolivia.org/",
+  "startDate": "2018-05-05T09:00:00-04:00",
+  "endDate": "2018-08-05T19:00:00-04:00",
+  "analytics": {
+    "prod": "UA-119039264-1",
+    "dev": null
+  },
+  "organizer": {
+    "name": "Angular Bolivia",
+    "twitter": "angularBolivia"
+  },
+  "webapp": {
+    "shortName": "NG-Bolivia",
+    "themeColor": "#F57C00",
+    "backgroundColor": "#F57C00"
+  },
+  "firebase": {
+    "name": "ng-bolivia-dev",
+    "domain": "ng-bolivia-dev.firebaseapp.com",
+    "database": "https://ng-bolivia-dev.firebaseio.com",
+    "api": "AIzaSyBpWsI4-0UlEopsT8_pkfzFqs3O5Wc-b-E",
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings",
+    "indexedDbSession": "hoverboard"
+  },
+  "mailchimp": {
+    "url": "https://ng-bolivia.us18.list-manage.com/subscribe/post?u=c936d9c2d7735e2d92050aaea&amp;id=8a9443bf81",
+    "name": "b_c936d9c2d7735e2d92050aaea_8a9443bf81"
+  },
+  "dateFormat": {
+    "locale": "en-US",
+    "blog": {"month": "short", "day": "numeric", "year": "numeric"}
+  },
+  "hashtag": "ngBolivia",
+  "disqusShortName": "hoverboard-gdg-x",
+  "tweetsSource": "/data/tweets.json",
+  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "enableSessionsRating": true,
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
+    }
+  ],
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "angularBolivia",
+      "url": "https://twitter.com/angularBolivia"
+    },
+    {
+      "name": "gplus",
+      "nickname": "107919070731517228434",
+      "url": "https://plus.google.com/communities/107919070731517228434"
+    },
+    {
+      "name": "facebook",
+      "nickname": "angular.bolivia",
+      "url": "https://www.facebook.com/angular.bolivia"
+    }
+  ],
+  "location": {
+    "apiKey": "AIzaSyAxLN_j_P9takxlRKIRs51GmuLDCIC8ZVg",
+    "name": "Camino Plaza Hotel, Cochabamba",
+    "link": "https://www.facebook.com",
+    "pointer": {
+      "latitude": -17.368676,
+      "longitude": -66.163414,
+      "zoom": 18
+    },
+    "mapCenter": {
+      "latitude": -17.368676,
+      "longitude": -66.163414
+    },
+    "images": [
+      "/images/backgrounds/hotel/hotel-1.jpg",
+      "/images/backgrounds/hotel/hotel-2.jpg",
+      "/images/backgrounds/hotel/hotel-3.jpg"
+    ]
+  },
+  "gallery": {
+    "albumUrl": "https://www.meetup.com/Angular-Bolivia/photos",
+    "photos": {
+      "big": "/images/backgrounds/meetup/2018_1.jpg",
+      "small": [
+        "/images/backgrounds/meetup/2018_2.jpg",
+        "/images/backgrounds/meetup/2018_3.jpg"
+      ]
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Home",
+      "headerSettings": {
+        "backgroundColor": "#6002EE",
+        "backgroundImage": "/images/backgrounds/ng-bolivia-home.jpg",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": null,
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "title": "Blog",
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "title": "Speakers",
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "title": "Schedule",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "title": "Team",
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "title": "Code of Conduct",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  }
+}

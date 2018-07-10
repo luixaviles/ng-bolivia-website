@@ -128,8 +128,8 @@ function waitFor(stream) {
 }
 
 function copyAndReload(file) {
-  const dest = prependPath(config.tempDirectory, file.substring(0, file.lastIndexOf('/')))		
-  
+  const dest = prependPath(config.tempDirectory, file.substring(0, file.lastIndexOf('/')))
+
   gulp.src(file).pipe(gulp.dest(dest));
 
   browserSync.reload();

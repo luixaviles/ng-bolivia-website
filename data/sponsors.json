@@ -8,10 +8,11 @@
     "name" : "EDteam",
     "url" : "https://ed.team/"
   } ],
-  "title" : "Gold"
+  "title" : "Gold",
+  "logosClass": "gold"
 }, {
   "logos" : [ {
-    "logoUrl" : "../images/logos/partners/jala.jpg",
+    "logoUrl" : "../images/logos/partners/jala.png",
     "name" : "Jala",
     "url" : "http://www.jalasoft.com/"
   } ],
