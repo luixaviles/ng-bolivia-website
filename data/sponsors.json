@@ -8,17 +8,19 @@
     "name" : "EDteam",
     "url" : "https://ed.team/"
   } ],
-  "title" : "Gold"
+  "title" : "Gold",
+  "logosClass": "gold"
 }, {
   "logos" : [ {
-    "logoUrl" : "../images/logos/partners/jala.jpg",
+    "logoUrl" : "../images/logos/partners/jala.png",
     "name" : "Jala",
     "url" : "http://www.jalasoft.com/"
   } ],
-  "title" : "Silver"
+  "title" : "Silver",
+  "logosClass": "silver"
 }, {
   "logos" : [ {
-    "logoUrl" : "../images/logos/partners/truextend.jpeg",
+    "logoUrl" : "../images/logos/partners/truextend.jpg",
     "name" : "TRUEXTEND",
     "url" : "https://www.truextend.com/"
   }, {
@@ -30,7 +32,8 @@
     "name" : "HOTEL CAMINO PLAZA",
     "url" : "https://caminoplaza.com"
   } ],
-  "title" : "Bronze"
+  "title" : "Bronze",
+  "logosClass": "bronze"
 }, {
   "logos" : [ {
     "logoUrl" : "../images/logos/partners/jetbrains.png",
@@ -41,5 +44,6 @@
     "name" : "Digital Ocean",
     "url" : "https://www.digitalocean.com/about/"
   } ],
-  "title" : "Partner"
+  "title" : "Partner",
+  "logosClass": "bronze"
 } ]

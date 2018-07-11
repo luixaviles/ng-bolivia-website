@@ -2,7 +2,7 @@
   {
     "logos": [
       {
-        "logoUrl": "../images/logos/partners/ngbaires.jpg",
+        "logoUrl": "../images/logos/partners/ngbaires.png",
         "name": "NG-Baires",
         "url": "https://twitter.com/ngbaires"
       },
@@ -51,6 +51,7 @@
         "name": "SCESI",
         "url": "https://www.scesi.umss.edu.bo/"
       }
-    ]
+    ],
+    "logosClass": "bronze"
   }
 ]

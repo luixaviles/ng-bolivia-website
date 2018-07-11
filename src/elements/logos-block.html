@@ -58,6 +58,21 @@
         width: 140px;
       }
 
+      .logo-img.gold {
+        height: 120px;
+        width: 220px;
+      }
+
+      .logo-img.silver {
+        height: 80px;
+        width: 180px;
+      }
+
+      .logo-img.bronze {
+        height: 60px;
+        width: 140px;
+      }
+
       .logo-img.info {
         height: 45px;
         width: 100px;
@@ -91,7 +106,6 @@
       <h4 class="heading text-center">{$ partners $}</h4>
       <template is="dom-repeat" items="[[app.partners]]" as="block">
         <div class="logos-block-wrapper">
-          <h5 class="logos-block-title text-center">[[block.title]]</h5>
           <div class="logos">
             <template is="dom-repeat" items="[[block.logos]]" as="logo">
               <a class="logo-item" href="[[logo.url]]" title="[[logo.name]]" target="_blank" rel="noopener noreferrer">
