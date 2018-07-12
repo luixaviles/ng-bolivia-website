@@ -1,238 +1,400 @@
-{
-  "speakers": [
-    {
-      "badges": [
-        {
-          "description": "Google Developer Expert",
-          "link": "https://developers.google.com/experts/people/jorge-cano",
-          "name": "GDE"
-        }
-      ],
-      "bio": "After more than 9 years working in the tech industry, Jorge is a full stack developer with focus on JavaScript technologies. Today, Jorge is working at ByteDefault using Angular / RxJS / Firebase / Nativescript as well as other technologies. He delivered several courses and talks as well as write some tech articles on these subjects. Because of that, he was recognised as a Google Developer Expert in Angular & web technologies and Nativescript Developer Expert.",
-      "company": "GDE",
-      "companyLogo": "/images/logos/gde_experts.png",
-      "country": "Buenos Aires, Argentina",
-      "featured": true,
-      "id": 1,
-      "name": "Jorge Cano",
-      "photoUrl": "/images/people/speakers/jorge_cano.jpg",
-      "shortBio": "After more than 9 years working in the tech industry, Jorge is a full stack developer with focus on JavaScript technologies...",
-      "socials": [
-        {
-          "icon": "gplus",
-          "link": "https://plus.google.com/113358190243424333291",
-          "name": "Google+"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/@jorgeucano",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://ar.linkedin.com/in/jorge-cano-06441015",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/jorgeucano",
-          "name": "GitHub"
-        }
-      ],
-      "tags": [
-        "Angular",
-        "Firebase",
-        "Architecture"
-      ],
-      "title": "Google Developer Expert"
-    },
-    {
-      "badges": [
-        {
-          "description": "Google Developer Expert",
-          "link": "https://developers.google.com/experts/people/josue-gutierrez",
-          "name": "GDE"
-        }
-      ],
-      "bio": "Josue has been a software developer during the last 10 years working for companies in Mexico and USA, now he is specialized in web development, data visualization and e-commerce systems/strategies, also he is part of the Google Developer Expert program.",
-      "company": "GDE",
-      "companyLogo": "/images/logos/gde_experts.png",
-      "country": "Mexico City, Mexico",
-      "featured": true,
-      "id": 2,
-      "name": "Josue Gutierrez",
-      "photoUrl": "/images/people/speakers/josue_gutierrez.jpg",
-      "shortBio": "Josue has been a software developer during the last 10 years working for companies in Mexico and USA...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/eusoj",
-          "name": "Twitter"
-        },
-        {
-          "icon": "gplus",
-          "link": "https://plus.google.com/112879101088263231793",
-          "name": "Google+"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/josueggh",
-          "name": "GitHub"
-        }
-      ],
-      "tags": [
-        "Angular",
-        "Architecture"
-      ],
-      "title": "Google Developer Expert"
-    },
-    {
-      "badges": [
-        {
-          "description": "Google Developer Expert",
-          "link": "https://developers.google.com/experts/people/andres-villanueva",
-          "name": "GDE"
-        }
-      ],
-      "bio": "Andrés is a passionate Web Developer, who started to feel interested in technology approximately in 2012, and especially Google technology, when in that same year he knows Google App Scripts. Venezuelan based in Argentina, \"El Pana\", as they know him in the environment of the Javascript communities of Buenos Aires, is considered an eternal beginner, a condition that drives him to always be in constant learning.",
-      "company": "GDE",
-      "companyLogo": "/images/logos/gde_experts.png",
-      "country": "Barcelona, Venezuela",
-      "featured": true,
-      "id": 3,
-      "name": "Andrés Villanueva",
-      "photoUrl": "/images/people/speakers/andres_villanueva.jpg",
-      "shortBio": "Venezuelan based in Argentina, Andrés is a passionate Web Developer, who started to feel interested in technology approximately in 2012...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/villanuevand",
-          "name": "Twitter"
-        },
-        {
-          "icon": "gplus",
-          "link": "https://plus.google.com/117570038424252253756",
-          "name": "Google+"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/andresvillanuevab/",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/Villanuevand",
-          "name": "GitHub"
-        }
-      ],
-      "tags": [
-        "Firebase",
-        "Angular"
-      ],
-      "title": "Google Developer Expert"
-    },
-    {
-      "badges": [
-        {
-          "description": "Google Developer Expert",
-          "link": "https://developers.google.com/experts/people/juan-herrera",
-          "name": "GDE"
-        }
-      ],
-      "bio": "Juan is a Colombian-based software engineer and the organizer of the first Angular conference in Latin America: NgColombia. Juan strongly believes in community efforts as enablers for social change, that's why he runs Angular Medellin, one of the most successful meetups in the region with a participation rate of +100 people per month where he is constantly encouraging members to improve their professional skills. At Yuxi Global, Juan is the Head of Front-end Development with the responsibility of training in-house teams and providing consultancy on how to build professional Angular solutions for american clients. In his spare time, Juan loves to talk about psychology, philosophy, and spirituality. Also, he is an avid dancer and musician.",
-      "company": "GDE",
-      "companyLogo": "/images/logos/gde_experts.png",
-      "country": "Medellín, Colombia",
-      "featured": true,
-      "id": 4,
-      "name": "Juan Herrera",
-      "photoUrl": "/images/people/speakers/juan_herrera.jpg",
-      "shortBio": "Juan is a Colombian-based software engineer and the organizer of the first Angular conference in Latin America...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/jdjuan",
-          "name": "Twitter"
-        },
-        {
-          "icon": "gplus",
-          "link": "https://plus.google.com/114120152894429017138",
-          "name": "Google+"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/juandavidherrera/",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/jdjuan",
-          "name": "GitHub"
-        }
-      ],
-      "tags": [
-        "Angular",
-        "Rxjs",
-        "Architecture",
-        "TypeScript"
-      ],
-      "title": "Google Developer Expert"
-    },
-    {
-      "bio": "Israel has been programming for the past 24 years and he was working with Angular since the alphas and AngularJS for over 6 years. He made the first AngularJS Youtube channel in Spanish, and he is a former Mexico City’s Angular Meetups' organizer.",
-      "company": "UBro Apps",
-      "companyLogo": "/images/logos/ubro_apps.png",
-      "country": "Mexico City, Mexico",
-      "featured": true,
-      "id": 5,
-      "name": "Israel Guzmán",
-      "photoUrl": "/images/people/speakers/israel_guzman.jpg",
-      "shortBio": "Israel has been programming for the past 24 years and he was working with Angular since the alphas...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/israelgp4",
-          "name": "Twitter"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/GUzmanPI",
-          "name": "GitHub"
-        }
-      ],
-      "tags": [
-        "Angular",
-        "TypeScript"
-      ],
-      "title": "CTO"
-    },
-    {
-      "bio": "Front End Senior developer working at YUXI Global. Co-organizer and MC for Angular Medellin. Industrial designer passionate about UX-UI 3D design, and 2D animations. He is a lover of scietific knowledge, and a charismatic speaker.",
-      "company": "YUXI Global",
-      "companyLogo": "/images/logos/yuxi_global.svg",
-      "country": "Medellín, Colombia",
-      "featured": true,
-      "id": 6,
-      "name": "Carlos Angulo",
-      "photoUrl": "/images/people/speakers/carlos_angulo.jpg",
-      "shortBio": "Carlos is a Front End Senior developer working at YUXI Global. Co-organizer and MC for Angular Medellin. Industrial designer passionate about UX-UI 3D design...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/carlosacns",
-          "name": "Twitter"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/CarlosAngulo/",
-          "name": "GitHub"
-        }
-      ],
-      "tags": [
-        "Angular",
-        "TypeScript"
-      ],
-      "title": "Senior Front End developer"
-    }
-  ]
-}
+[{
+  "badges" : [ {
+    "description" : "Google Developer Expert",
+    "link" : "https://developers.google.com/experts/people/jorge-cano",
+    "name" : "GDE"
+  } ],
+  "bio" : "After more than 9 years working in the tech industry, Jorge is a full stack developer with focus on JavaScript technologies. Today, Jorge is working at ByteDefault using Angular / RxJS / Firebase / Nativescript as well as other technologies. He delivered several courses and talks as well as write some tech articles on these subjects. Because of that, he was recognised as a Google Developer Expert in Angular & web technologies and Nativescript Developer Expert.",
+  "company" : "GDE",
+  "companyLogo" : "/images/logos/gde_experts.png",
+  "country" : "Buenos Aires, Argentina",
+  "featured" : true,
+  "id" : 1,
+  "name" : "Jorge Cano",
+  "photoUrl" : "/images/people/speakers/jorge_cano.jpg",
+  "shortBio" : "After more than 9 years working in the tech industry, Jorge is a full stack developer with focus on JavaScript technologies...",
+  "socials" : [ {
+    "icon" : "gplus",
+    "link" : "https://plus.google.com/113358190243424333291",
+    "name" : "Google+"
+  }, {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/@jorgeucano",
+    "name" : "Twitter"
+  }, {
+    "icon" : "linkedin",
+    "link" : "https://ar.linkedin.com/in/jorge-cano-06441015",
+    "name" : "LinkedIn"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/jorgeucano",
+    "name" : "GitHub"
+  } ],
+  "tags" : [ "Angular", "Firebase", "Architecture" ],
+  "title" : "Google Developer Expert"
+}, {
+  "badges" : [ {
+    "description" : "Google Developer Expert",
+    "link" : "https://developers.google.com/experts/people/josue-gutierrez",
+    "name" : "GDE"
+  } ],
+  "bio" : "Josue has been a software developer during the last 10 years working for companies in Mexico and USA, now he is specialized in web development, data visualization and e-commerce systems/strategies, also he is part of the Google Developer Expert program.",
+  "company" : "GDE",
+  "companyLogo" : "/images/logos/gde_experts.png",
+  "country" : "Mexico City, Mexico",
+  "featured" : true,
+  "id" : 2,
+  "name" : "Josue Gutierrez",
+  "photoUrl" : "/images/people/speakers/josue_gutierrez.jpg",
+  "shortBio" : "Josue has been a software developer during the last 10 years working for companies in Mexico and USA...",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/eusoj",
+    "name" : "Twitter"
+  }, {
+    "icon" : "gplus",
+    "link" : "https://plus.google.com/112879101088263231793",
+    "name" : "Google+"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/josueggh",
+    "name" : "GitHub"
+  } ],
+  "tags" : [ "Angular", "Architecture" ],
+  "title" : "Google Developer Expert"
+}, {
+  "badges" : [ {
+    "description" : "Google Developer Expert",
+    "link" : "https://developers.google.com/experts/people/andres-villanueva",
+    "name" : "GDE"
+  } ],
+  "bio" : "Andrés is a passionate Web Developer, who started to feel interested in technology approximately in 2012, and especially Google technology, when in that same year he knows Google App Scripts. Venezuelan based in Argentina, \"El Pana\", as they know him in the environment of the Javascript communities of Buenos Aires, is considered an eternal beginner, a condition that drives him to always be in constant learning.",
+  "company" : "GDE",
+  "companyLogo" : "/images/logos/gde_experts.png",
+  "country" : "Barcelona, Venezuela",
+  "featured" : true,
+  "id" : 3,
+  "name" : "Andrés Villanueva",
+  "photoUrl" : "/images/people/speakers/andres_villanueva.jpg",
+  "shortBio" : "Venezuelan based in Argentina, Andrés is a passionate Web Developer, who started to feel interested in technology approximately in 2012...",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/villanuevand",
+    "name" : "Twitter"
+  }, {
+    "icon" : "gplus",
+    "link" : "https://plus.google.com/117570038424252253756",
+    "name" : "Google+"
+  }, {
+    "icon" : "linkedin",
+    "link" : "https://www.linkedin.com/in/andresvillanuevab/",
+    "name" : "LinkedIn"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/Villanuevand",
+    "name" : "GitHub"
+  } ],
+  "tags" : [ "Firebase", "Angular" ],
+  "title" : "Google Developer Expert"
+}, {
+  "badges" : [ {
+    "description" : "Google Developer Expert",
+    "link" : "https://developers.google.com/experts/people/juan-herrera",
+    "name" : "GDE"
+  } ],
+  "bio" : "Juan is a Colombian-based software engineer and the organizer of the first Angular conference in Latin America: NgColombia. Juan strongly believes in community efforts as enablers for social change, that's why he runs Angular Medellin, one of the most successful meetups in the region with a participation rate of +100 people per month where he is constantly encouraging members to improve their professional skills. At Yuxi Global, Juan is the Head of Front-end Development with the responsibility of training in-house teams and providing consultancy on how to build professional Angular solutions for american clients. In his spare time, Juan loves to talk about psychology, philosophy, and spirituality. Also, he is an avid dancer and musician.",
+  "company" : "GDE",
+  "companyLogo" : "/images/logos/gde_experts.png",
+  "country" : "Medellín, Colombia",
+  "featured" : true,
+  "id" : 4,
+  "name" : "Juan Herrera",
+  "photoUrl" : "/images/people/speakers/juan_herrera.jpg",
+  "shortBio" : "Juan is a Colombian-based software engineer and the organizer of the first Angular conference in Latin America...",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/jdjuan",
+    "name" : "Twitter"
+  }, {
+    "icon" : "gplus",
+    "link" : "https://plus.google.com/114120152894429017138",
+    "name" : "Google+"
+  }, {
+    "icon" : "linkedin",
+    "link" : "https://www.linkedin.com/in/juandavidherrera/",
+    "name" : "LinkedIn"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/jdjuan",
+    "name" : "GitHub"
+  }, {
+    "icon" : "website",
+    "link" : "http://www.juandavidherrera.com/en",
+    "name" : "Website"
+  } ],
+  "tags" : [ "Angular", "Rxjs", "Architecture", "Typescript" ],
+  "title" : "Google Developer Expert"
+}, {
+  "bio" : "Israel has been programming for the past 24 years and he was working with Angular since the alphas and AngularJS for over 6 years. He made the first AngularJS Youtube channel in Spanish, and he is a former Mexico City’s Angular Meetups' organizer.",
+  "company" : "UBro Apps",
+  "companyLogo" : "/images/logos/ubro_apps.png",
+  "country" : "Mexico City, Mexico",
+  "featured" : true,
+  "id" : 5,
+  "name" : "Israel Guzmán",
+  "photoUrl" : "/images/people/speakers/israel_guzman.jpg",
+  "shortBio" : "Israel has been programming for the past 24 years and he was working with Angular since the alphas...",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/israelgp4",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/GUzmanPI",
+    "name" : "GitHub"
+  } ],
+  "tags" : [ "Angular", "Typescript" ],
+  "title" : "CTO"
+}, {
+  "bio" : "Front End Senior developer working at YUXI Global. Co-organizer and MC for Angular Medellin. Industrial designer passionate about UX-UI 3D design, and 2D animations. He is a lover of scietific knowledge, and a charismatic speaker.",
+  "company" : "YUXI Global",
+  "companyLogo" : "/images/logos/yuxi_global.svg",
+  "country" : "Medellín, Colombia",
+  "featured" : true,
+  "id" : 6,
+  "name" : "Carlos Angulo",
+  "photoUrl" : "/images/people/speakers/carlos_angulo.jpg",
+  "shortBio" : "Carlos is a Front End Senior developer working at YUXI Global. Co-organizer and MC for Angular Medellin. Industrial designer passionate about UX-UI 3D design...",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/carlosacns",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/CarlosAngulo/",
+    "name" : "GitHub"
+  } ],
+  "tags" : [ "Angular", "Typescript" ],
+  "title" : "Senior Front End developer"
+}, {
+  "bio" : "Diseñador web y profesor con ocho años de experiencia. Mi especialidad es la experiencia de usuario y el diseño de interfaces. Fundé y dirijo EDteam, una plataforma educativa en tecnología con presencia en toda Latinoamerica.",
+  "company" : "EDteam",
+  "country" : "Lima, Perú",
+  "featured" : true,
+  "id" : 17,
+  "name" : "Alvaro Felipe",
+  "photoUrl" : "/images/people/speakers/alvaro.jpg",
+  "shortBio" : "Fundé y dirijo EDteam, una plataforma educativa en tecnología con presencia en toda Latinoamerica.",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/alvarofelipe",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/escueladigital",
+    "name" : "GitHub"
+  }, {
+    "icon" : "website",
+    "link" : "https://ed.team/profesores/alvaro-felipe",
+    "name" : "Website"
+  }],
+  "tags" : [ "Angular" ],
+  "title" : "Software Developer"
+}, {
+  "bio" : "Byron is a consultant software developer  with more than 11 years of experience in the industry, working with different business models. Passionate about software development. Active member of different technology communities. Currently working at Thoughtworks Ecuador, leading a distributed team between Chile and Ecuador.",
+  "company" : "Thoughtworks",
+  "companyLogo" : "/images/logos/yuxi_global.svg",
+  "country" : "Honduras, Honduras",
+  "featured" : false,
+  "id" : 7,
+  "name" : "Byron Torres",
+  "photoUrl" : "/images/people/speakers/byletor.png",
+  "shortBio" : "Byron is a consultant software developer  with more than 11 years of experience in the industry.",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/byletor",
+    "name" : "Twitter"
+  }],
+  "tags" : [ "Typescript" ],
+  "title" : "Consultant Developer"
+}, {
+  "bio" : "Software developer, tech entrepreneur, He’s been involved in the industry since 1997. He founded five tech companies, one of them was the first Bolivian startup that pass a Venture Capital investment round process. Currently: CTO DISSER srl. Bolivia. and Project Lead UBI Project at HandsSon Limited, Malta.",
+  "company" : "IT Entrepreneur",
+  "companyLogo" : "/images/logos/yuxi_global.svg",
+  "country" : "Bolivia",
+  "featured" : false,
+  "id" : 8,
+  "name" : "Carlos Olivera",
+  "photoUrl" : "/images/people/speakers/carlos.jpg",
+  "shortBio" : "Software developer, tech entrepreneur, He’s been involved in the industry since 1997.",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/carlos_olivera",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/carlos-olivera",
+    "name" : "GitHub"
+  }, {
+    "icon" : "website",
+    "link" : "http://carlosoliverablog.com",
+    "name" : "Website"
+  }],
+  "tags" : [ "Typescript" ],
+  "title" : "Software developer"
+}, {
+  "bio" : "Frontend Senior en Senseta especializado en el área de FrontEnd & HybripApps, enfocado en el aprendizaje y enseñanza de JS. He dictado cursos sobre desarrollo con Ionic en universidades, empresas y agencias alrededor de latinoamérica y creador de ng-classroom.com sitio enfocado al aprendizaje y buenas prácticas en desarrollo híbrido.",
+  "company" : "Senseta",
+  "companyLogo" : "/images/logos/yuxi_global.svg",
+  "country" : "Bogotá. Colombia",
+  "featured" : false,
+  "id" : 9,
+  "name" : "Nicolas Molina",
+  "photoUrl" : "/images/people/speakers/nicobytes.jpg",
+  "shortBio" : "I am a software developer who is passionate about Web applications and Hybrid Apps. I love to be developer and to create software. I love to be an speaker in meetups and conferences.",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/nicobytes",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/nicobytes",
+    "name" : "GitHub"
+  }, {
+    "icon" : "website",
+    "link" : "http://nicobytes.com",
+    "name" : "Website"
+  }],
+  "tags" : [ "Typescript", "Angular", "Mobile" ],
+  "title" : "FrontEnd Senior"
+}, {
+  "bio" : "Ingeniero de Sistemas, actualmente se desempeña como Especialista de Software(Apps Móviles) y UX Design en la empresa de telecomunicaciones VIVA, tiene un postgrado en Desarrollo de Apps Móviles y varios cursos e investigaciones en el campo de UI/UX, en su tiempo libre participa activamente en comunidades de tecnología y emprendimiento como ser: GDG Cochabamba, Angular Bolivia, Docker Cochabamba y Startup Weekend Cochabamba. Ha participado en diferentes universidades y eventos del país, como también en el exterior dando charlas y talleres acerca de UX y desarrollo de aplicaciones móviles.",
+  "company" : "VIVA",
+  "companyLogo" : "/images/logos/yuxi_global.svg",
+  "country" : "Cochabamba, Bolivia",
+  "featured" : false,
+  "id" : 10,
+  "name" : "Andres Jordan",
+  "photoUrl" : "/images/people/speakers/jordan.webp",
+  "shortBio" : "Ingeniero de Sistemas, actualmente se desempeña como Especialista de Software(Apps Móviles) y UX Design en la empresa de telecomunicaciones VIVA, tiene un postgrado en Desarrollo de Apps Móviles y varios cursos e investigaciones en el campo de UI/UX",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/andresjordanze",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/andresjordanze",
+    "name" : "GitHub"
+  }],
+  "tags" : [ "UX", "Mobile" ],
+  "title" : "UX Designer"
+}, {
+  "bio" : "..",
+  "country" : "Cochabamba, Bolivia",
+  "featured" : false,
+  "id" : 11,
+  "name" : "Kenji Lozano",
+  "photoUrl" : "/images/people/speakers/kenji_lozano.jpeg",
+  "shortBio" : "...",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "http://twitter.com/kenji_lozano",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/andresjordanze",
+    "name" : "GitHub"
+  }],
+  "tags" : [ "Javascript" ],
+  "title" : "Javascript Developer"
+}, {
+  "bio" : "Ella es una software engineer que se graduó de la carrera de Informática de la UMSA en Bolivia el 2017, ha sido miembro y liderado muchas comunidades de tecnología en la ciudad de La Paz entre ellas Google Developers Group La Paz, Women Techmakers La Paz, Núcleo GNU/Linux. Actualmente está realizando prácticas como web developer en New York trabajando en un proyecto social.  Es apasionada respecto a aprender sobre nuevas tecnologías, compartir lo que aprende dando charlas a las comunidades de tecnología en el mundo!",
+  "company" : "Cultural Vistas",
+  "country" : "La Paz, Bolivia",
+  "featured" : false,
+  "id" : 12,
+  "name" : "Lupe Canaviri Maydana",
+  "photoUrl" : "/images/people/speakers/lupe.jpg",
+  "shortBio" : "Ella es una software engineer que se graduó de la carrera de Informática de la UMSA en Bolivia el 2017",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/luucamay_",
+    "name" : "Twitter"
+  }],
+  "tags" : [ "General" ],
+  "title" : "Software Engineer"
+}, {
+  "bio" : "Como Ingeniero Informático  mi formación académica y laboral se ha orientado al desarrollo de software,  con amplia experiencia desde el 2008, con capacidad para trabajar en equipo, capacidad de adaptación y aprendizaje por las nuevas tecnologías. Actualmente desarrollo  aplicaciones Front End (Angular 6) y uso de Asp.net Core para múltiples plataformas.  Usando también Ionic para el desarrollo de aplicaciones móviles hibridas. Pertenezco al GDG Santa cruz como organizador, e realizado el evento de Angular Day 2018 en la Universidad UTEPSA. Tambien dando conferencias en los diferentes eventos del GDG Santa cruz desde el 2016, e invitaciones de diferentes universidades para dar charlas sobre Angular.",
+  "company" : "GDG Santa Cruz",
+  "country" : "Santa Cruz, Bolivia",
+  "featured" : false,
+  "id" : 13,
+  "name" : "Elias Negrete",
+  "photoUrl" : "/images/people/speakers/eliasfnegrete.jpg",
+  "shortBio" : " Actualmente desarrollo  aplicaciones Front End (Angular 6) y uso de Asp.net Core para múltiples plataformas. ",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/eliasfnegrete",
+    "name" : "Twitter"
+  }],
+  "tags" : [ "Angular" ],
+  "title" : "Senior Software Engineer"
+}, {
+  "bio" : "Maria Rene Torrez ( Fundadora  y Trainer de Tecnololgía de Niños y  Jóvenes  en Ideas & Código Club, Profesora de Colegio San Agustín de Computación ,  Coordinadora de Cochabamba  y Mentora de Technovation Challenge, Coach Educator de CuriosityMachine, Áreas de Profesionales Ing Sistemas  y Comunicación Social ,  Productora Campo  de Televisión  y Cine, Alumni de AIESEC Bolivia España, Monitora de Educación Espacial) Grace Torrico (Estudiante de Secundaria del San Agustín ,  Mentora de Technovation Challenge, Ganadora de medallas en Ciencias en Olimpiadas, entusiata en el desarrollo de aplicaicones y la programacion )",
+  "company" : "Trainer de Tecnololgía de Niños ",
+  "country" : "Cochabamba, Bolivia",
+  "featured" : false,
+  "id" : 14,
+  "name" : "Maria Rene Torrez",
+  "shortBio" : "Maria Rene Torrez ( Fundadora  y Trainer de Tecnololgía de Niños y  Jóvenes  en Ideas & Código Club",
+  "tags" : [ "Angular" ],
+  "title" : "Software Engineer"
+}, {
+  "bio" : "Systems engineer with experience in software analysis and development for 10 years. Scrum Developer Certified. Solid knowledge in Microsoft Technologies using multilayer architecture. Flexibility and rapid absorption of new techniques and technologies. Committed, self-taught, responsible, proactive and analytical. Diploma in competency-based Higher Education for Science and Technology. Passionate about learning the latest in web and mobile technologies, and of course, Angular lover.",
+  "company" : "Jalasoft",
+  "country" : "Cochabamba, Bolivia",
+  "featured" : false,
+  "id" : 15,
+  "name" : "Lizzy Mendivil",
+  "photoUrl" : "/images/people/speakers/lizzy-mendivil.jpg",
+  "shortBio" : "Systems engineer with experience in software analysis and development for 10 years. Scrum Developer Certified. Solid knowledge in Microsoft Technologies using multilayer architecture. Flexibility and rapid absorption of new techniques and technologies. Committed, self-taught, responsible, proactive and analytical. Diploma in competency-based Higher Education for Science and Technology.",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/lizzymendivil",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/carlos-olivera",
+    "name" : "GitHub"
+  }, {
+    "icon" : "website",
+    "link" : "http://lizzymendivil.com/",
+    "name" : "Website"
+  }],
+  "tags" : [ "Angular" ],
+  "title" : "Software Developer"
+}, {
+  "bio" : "....",
+  "company" : "Jalasoft",
+  "country" : "Cochabamba, Bolivia",
+  "featured" : false,
+  "id" : 16,
+  "name" : "Luis Aviles",
+  "photoUrl" : "/images/people/speakers/luixaviles-photo.jpg",
+  "shortBio" : "...",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/luixaviles",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/luixaviles",
+    "name" : "GitHub"
+  }, {
+    "icon" : "website",
+    "link" : "https://luixaviles.com/",
+    "name" : "Website"
+  }],
+  "tags" : [ "Angular" ],
+  "title" : "Software Developer"
+}]
