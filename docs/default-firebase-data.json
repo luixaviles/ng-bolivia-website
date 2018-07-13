@@ -1455,22 +1455,22 @@
   "tickets" : {
     "elements" : [ {
       "currency" : "Bs",
-      "ends" : "July 18",
+      "ends" : "July 20",
       "info" : "Early Bird Access",
       "name" : "Workshop",
       "price" : 100,
       "soldOut" : false,
-      "starts" : "July 11"
+      "starts" : "July 12"
     }, {
       "currency" : "Bs",
-      "ends" : "July 18",
+      "ends" : "July 20",
       "info" : "Early Bird Access",
       "name" : "Conference",
       "price" : 200,
       "soldOut" : false,
-      "starts" : "July 11"
+      "starts" : "July 12"
     } ],
-    "url" : "https://tickets.ng-bolivia.org"
+    "url" : "http://tickets.ng-bolivia.org"
   },
   "videos" : [ {
     "speakers" : "Jakub Škvára",
