@@ -30,7 +30,7 @@
     "link" : "https://github.com/jorgeucano",
     "name" : "GitHub"
   } ],
-  "tags" : [ "Angular", "Firebase", "Architecture" ],
+  "tags" : [ "Angular", "Firebase", "Architecture", "Typescript", "Rxjs" ],
   "title" : "Google Developer Expert"
 }, {
   "badges" : [ {
@@ -60,7 +60,7 @@
     "link" : "https://github.com/josueggh",
     "name" : "GitHub"
   } ],
-  "tags" : [ "Angular", "Architecture" ],
+  "tags" : [ "Angular", "Architecture", "Javascript", "Typescript" ],
   "title" : "Google Developer Expert"
 }, {
   "badges" : [ {
@@ -94,7 +94,7 @@
     "link" : "https://github.com/Villanuevand",
     "name" : "GitHub"
   } ],
-  "tags" : [ "Firebase", "Angular" ],
+  "tags" : [ "Firebase", "Angular", "Community" ],
   "title" : "Google Developer Expert"
 }, {
   "badges" : [ {
@@ -174,7 +174,7 @@
     "link" : "https://github.com/CarlosAngulo/",
     "name" : "GitHub"
   } ],
-  "tags" : [ "Angular", "Typescript" ],
+  "tags" : [ "Animations", "Angular", "Typescript" ],
   "title" : "Senior Front End developer"
 }, {
   "bio" : "Diseñador web y profesor con ocho años de experiencia. Mi especialidad es la experiencia de usuario y el diseño de interfaces. Fundé y dirijo EDteam, una plataforma educativa en tecnología con presencia en toda Latinoamerica.",
@@ -198,14 +198,14 @@
     "link" : "https://ed.team/profesores/alvaro-felipe",
     "name" : "Website"
   }],
-  "tags" : [ "Angular" ],
+  "tags" : [ "Entrepreneurship", "Community", "Web" ],
   "title" : "Software Developer"
 }, {
   "bio" : "Byron is a consultant software developer  with more than 11 years of experience in the industry, working with different business models. Passionate about software development. Active member of different technology communities. Currently working at Thoughtworks Ecuador, leading a distributed team between Chile and Ecuador.",
   "company" : "Thoughtworks",
   "companyLogo" : "/images/logos/yuxi_global.svg",
   "country" : "Honduras, Honduras",
-  "featured" : false,
+  "featured" : true,
   "id" : 7,
   "name" : "Byron Torres",
   "photoUrl" : "/images/people/speakers/byletor.png",
@@ -215,14 +215,14 @@
     "link" : "https://twitter.com/byletor",
     "name" : "Twitter"
   }],
-  "tags" : [ "Typescript" ],
+  "tags" : [ "Community", "Angular" ],
   "title" : "Consultant Developer"
 }, {
   "bio" : "Software developer, tech entrepreneur, He’s been involved in the industry since 1997. He founded five tech companies, one of them was the first Bolivian startup that pass a Venture Capital investment round process. Currently: CTO DISSER srl. Bolivia. and Project Lead UBI Project at HandsSon Limited, Malta.",
   "company" : "IT Entrepreneur",
   "companyLogo" : "/images/logos/yuxi_global.svg",
-  "country" : "Bolivia",
-  "featured" : false,
+  "country" : "Cochabamba, Bolivia",
+  "featured" : true,
   "id" : 8,
   "name" : "Carlos Olivera",
   "photoUrl" : "/images/people/speakers/carlos.jpg",
@@ -240,7 +240,7 @@
     "link" : "http://carlosoliverablog.com",
     "name" : "Website"
   }],
-  "tags" : [ "Typescript" ],
+  "tags" : [ "Entrepreneurship", "Mobile", "Web" ],
   "title" : "Software developer"
 }, {
   "bio" : "Frontend Senior en Senseta especializado en el área de FrontEnd & HybripApps, enfocado en el aprendizaje y enseñanza de JS. He dictado cursos sobre desarrollo con Ionic en universidades, empresas y agencias alrededor de latinoamérica y creador de ng-classroom.com sitio enfocado al aprendizaje y buenas prácticas en desarrollo híbrido.",
@@ -276,7 +276,7 @@
   "id" : 10,
   "name" : "Andres Jordan",
   "photoUrl" : "/images/people/speakers/jordan.webp",
-  "shortBio" : "Ingeniero de Sistemas, actualmente se desempeña como Especialista de Software(Apps Móviles) y UX Design en la empresa de telecomunicaciones VIVA, tiene un postgrado en Desarrollo de Apps Móviles y varios cursos e investigaciones en el campo de UI/UX",
+  "shortBio" : "Ingeniero de Sistemas, actualmente se desempeña como Especialista de Software(Apps Móviles) y UX Design en la empresa de telecomunicaciones VIVA...",
   "socials" : [ {
     "icon" : "twitter",
     "link" : "https://twitter.com/andresjordanze",
@@ -286,16 +286,16 @@
     "link" : "https://github.com/andresjordanze",
     "name" : "GitHub"
   }],
-  "tags" : [ "UX", "Mobile" ],
+  "tags" : [ "UX", "Mobile", "Angular" ],
   "title" : "UX Designer"
 }, {
-  "bio" : "..",
+  "bio" : "Desarrollador Font-End que actualmente trabaja con Angular, es parte de la Comunidad Angular Bolivia, fanático por Meteor y Apollo Stack.",
   "country" : "Cochabamba, Bolivia",
   "featured" : false,
   "id" : 11,
   "name" : "Kenji Lozano",
   "photoUrl" : "/images/people/speakers/kenji_lozano.jpeg",
-  "shortBio" : "...",
+  "shortBio" : "Desarrollador Font-End que actualmente trabaja con Angular, es parte de la Comunidad Angular Bolivia, fanático por Meteor y Apollo Stack.",
   "socials" : [ {
     "icon" : "twitter",
     "link" : "http://twitter.com/kenji_lozano",
@@ -305,7 +305,7 @@
     "link" : "https://github.com/andresjordanze",
     "name" : "GitHub"
   }],
-  "tags" : [ "Javascript" ],
+  "tags" : [ "Javascript", "Angular", "Web" ],
   "title" : "Javascript Developer"
 }, {
   "bio" : "Ella es una software engineer que se graduó de la carrera de Informática de la UMSA en Bolivia el 2017, ha sido miembro y liderado muchas comunidades de tecnología en la ciudad de La Paz entre ellas Google Developers Group La Paz, Women Techmakers La Paz, Núcleo GNU/Linux. Actualmente está realizando prácticas como web developer en New York trabajando en un proyecto social.  Es apasionada respecto a aprender sobre nuevas tecnologías, compartir lo que aprende dando charlas a las comunidades de tecnología en el mundo!",
@@ -321,7 +321,7 @@
     "link" : "https://twitter.com/luucamay_",
     "name" : "Twitter"
   }],
-  "tags" : [ "General" ],
+  "tags" : [ "Community" ],
   "title" : "Software Engineer"
 }, {
   "bio" : "Como Ingeniero Informático  mi formación académica y laboral se ha orientado al desarrollo de software,  con amplia experiencia desde el 2008, con capacidad para trabajar en equipo, capacidad de adaptación y aprendizaje por las nuevas tecnologías. Actualmente desarrollo  aplicaciones Front End (Angular 6) y uso de Asp.net Core para múltiples plataformas.  Usando también Ionic para el desarrollo de aplicaciones móviles hibridas. Pertenezco al GDG Santa cruz como organizador, e realizado el evento de Angular Day 2018 en la Universidad UTEPSA. Tambien dando conferencias en los diferentes eventos del GDG Santa cruz desde el 2016, e invitaciones de diferentes universidades para dar charlas sobre Angular.",
@@ -337,17 +337,18 @@
     "link" : "https://twitter.com/eliasfnegrete",
     "name" : "Twitter"
   }],
-  "tags" : [ "Angular" ],
+  "tags" : [ "Angular", "Community" ],
   "title" : "Senior Software Engineer"
 }, {
-  "bio" : "Maria Rene Torrez ( Fundadora  y Trainer de Tecnololgía de Niños y  Jóvenes  en Ideas & Código Club, Profesora de Colegio San Agustín de Computación ,  Coordinadora de Cochabamba  y Mentora de Technovation Challenge, Coach Educator de CuriosityMachine, Áreas de Profesionales Ing Sistemas  y Comunicación Social ,  Productora Campo  de Televisión  y Cine, Alumni de AIESEC Bolivia España, Monitora de Educación Espacial) Grace Torrico (Estudiante de Secundaria del San Agustín ,  Mentora de Technovation Challenge, Ganadora de medallas en Ciencias en Olimpiadas, entusiata en el desarrollo de aplicaicones y la programacion )",
-  "company" : "Trainer de Tecnololgía de Niños ",
+  "bio" : "Fundadora  y Trainer de Tecnololgía de Niños y  Jóvenes  en Ideas & Código Club, Profesora de Colegio San Agustín de Computación ,  Coordinadora de Cochabamba  y Mentora de Technovation Challenge, Coach Educator de CuriosityMachine, Áreas de Profesionales Ing Sistemas  y Comunicación Social ,  Productora Campo  de Televisión  y Cine, Alumni de AIESEC Bolivia España, Monitora de Educación Espacial) Grace Torrico (Estudiante de Secundaria del San Agustín ,  Mentora de Technovation Challenge, Ganadora de medallas en Ciencias en Olimpiadas, entusiata en el desarrollo de aplicaicones y la programacion",
+  "company" : "Ideas & Código Club",
   "country" : "Cochabamba, Bolivia",
   "featured" : false,
   "id" : 14,
   "name" : "Maria Rene Torrez",
-  "shortBio" : "Maria Rene Torrez ( Fundadora  y Trainer de Tecnololgía de Niños y  Jóvenes  en Ideas & Código Club",
-  "tags" : [ "Angular" ],
+  "photoUrl" : "/images/people/speakers/maria_rene.jpg",
+  "shortBio" : "Fundadora  y Trainer de Tecnololgía de Niños y  Jóvenes  en Ideas & Código Club.",
+  "tags" : [ "Angular", "Community" ],
   "title" : "Software Engineer"
 }, {
   "bio" : "Systems engineer with experience in software analysis and development for 10 years. Scrum Developer Certified. Solid knowledge in Microsoft Technologies using multilayer architecture. Flexibility and rapid absorption of new techniques and technologies. Committed, self-taught, responsible, proactive and analytical. Diploma in competency-based Higher Education for Science and Technology. Passionate about learning the latest in web and mobile technologies, and of course, Angular lover.",
@@ -357,7 +358,7 @@
   "id" : 15,
   "name" : "Lizzy Mendivil",
   "photoUrl" : "/images/people/speakers/lizzy-mendivil.jpg",
-  "shortBio" : "Systems engineer with experience in software analysis and development for 10 years. Scrum Developer Certified. Solid knowledge in Microsoft Technologies using multilayer architecture. Flexibility and rapid absorption of new techniques and technologies. Committed, self-taught, responsible, proactive and analytical. Diploma in competency-based Higher Education for Science and Technology.",
+  "shortBio" : "Systems engineer with experience in software analysis and development for 10 years. Scrum Developer Certified.",
   "socials" : [ {
     "icon" : "twitter",
     "link" : "https://twitter.com/lizzymendivil",
@@ -371,17 +372,17 @@
     "link" : "http://lizzymendivil.com/",
     "name" : "Website"
   }],
-  "tags" : [ "Angular" ],
+  "tags" : [ "Web", "Angular"],
   "title" : "Software Developer"
 }, {
-  "bio" : "....",
-  "company" : "Jalasoft",
+  "bio" : "Luis works as a Senior Angular Developer and Instructor at AssureSoft Corp where he is currently a lead development engineer of a front-end team with special focus on Angular as main technology and framework. He started to develop web apps with AngularJS 1.2 and he mainly has worked with JavaScript since then. He’s an enthusiast of Open Source software, web technologies and communities. He’s the organizer of the Angular Bolivia community. When he is not coding, Luis is reading about Astronomy or nerding about outer space, photography or even doing Astrophotography.",
+  "company" : "AssureSoft",
   "country" : "Cochabamba, Bolivia",
   "featured" : false,
   "id" : 16,
   "name" : "Luis Aviles",
   "photoUrl" : "/images/people/speakers/luixaviles-photo.jpg",
-  "shortBio" : "...",
+  "shortBio" : "Luis works as a Senior Angular Developer and Instructor at AssureSoft Corp where he is currently a lead development engineer of a front-end team...",
   "socials" : [ {
     "icon" : "twitter",
     "link" : "https://twitter.com/luixaviles",
@@ -395,6 +396,17 @@
     "link" : "https://luixaviles.com/",
     "name" : "Website"
   }],
-  "tags" : [ "Angular" ],
-  "title" : "Software Developer"
+  "tags" : [ "Angular", "Typescript", "Architecture", "Javascript", "Community" ],
+  "title" : "Senior Software Engineer"
+}, {
+  "bio" : "Estudiante de Secundaria del San Agustín , Mentora de Technovation Challenge, Ganadora de medallas en Ciencias en Olimpiadas, entusiata en el desarrollo de aplicaciones y la programacion.",
+  "company" : "Ideas & Código Club",
+  "country" : "Cochabamba, Bolivia",
+  "featured" : false,
+  "id" : 17,
+  "name" : "Grace Carola Torrico",
+  "photoUrl" : "/images/people/speakers/grace_torrico.jpg",
+  "shortBio" : "Estudiante de Secundaria del San Agustín , Mentora de Technovation Challenge, Ganadora de medallas en Ciencias en Olimpiadas, entusiata en el desarrollo de aplicaciones y la programacion",
+  "tags" : ["Angular"],
+  "title" : "Junior Developer"
 }]
