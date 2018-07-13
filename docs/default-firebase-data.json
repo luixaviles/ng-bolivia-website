@@ -1454,30 +1454,23 @@
   } ],
   "tickets" : {
     "elements" : [ {
-      "currency" : "₴",
-      "ends" : "Sep 8",
-      "info" : "Requires valid student ID",
-      "name" : "Student",
-      "price" : 500,
+      "currency" : "Bs",
+      "ends" : "July 20",
+      "info" : "Early Bird Access",
+      "name" : "Workshop",
+      "price" : 100,
       "soldOut" : false,
-      "starts" : "May 1"
+      "starts" : "July 12"
     }, {
-      "currency" : "₴",
-      "ends" : "July 1",
-      "info" : "Or first 100 tickets",
-      "name" : "Early Bird",
-      "price" : 750,
-      "soldOut" : true,
-      "starts" : "May 1"
-    }, {
-      "currency" : "₴",
-      "ends" : "Sep 8",
-      "name" : "Lazy Bird",
-      "price" : 1000,
+      "currency" : "Bs",
+      "ends" : "July 20",
+      "info" : "Early Bird Access",
+      "name" : "Conference",
+      "price" : 200,
       "soldOut" : false,
-      "starts" : "July 1"
+      "starts" : "July 12"
     } ],
-    "url" : "http://2event.com/events/630032"
+    "url" : "http://tickets.ng-bolivia.org"
   },
   "videos" : [ {
     "speakers" : "Jakub Škvára",
