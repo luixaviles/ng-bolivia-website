@@ -19,7 +19,7 @@
   },
   "103" : {
     "complexity" : "Intermediate",
-    "description" : "Aprende a escribir aplicaciones mantenibles en Angular independientemente del tamaño de tu equipo y su complejidad, utilizando los mejores consejos de diseño de architecturas.  \n En este taller vas a construir una aplicación que requerirá de todos tus conocimientos en escalabilidad y mantenibilidad. Bajo un formato de concuros, los participantes recibirán puntos cada vez que tomen la decisión correcta al momento de escribir código, el ganador toma el precio y se lleva la gloria eterna. \n En esta workshop escribirás código y aprenderás a: \n- Manejar el crecimiento de tu base de código de manera eficiente \n- Usar las mejores prácticas en módulo \n - Nombrar las variables de manera correcta \n- Gestionar el estado de tu aplicación efectivamente \n- Escalar tu estructura de carpetas \n- Imponer estándares de código \n- Reutilizar tu código al máximo",
+    "description" : "Aprende a escribir aplicaciones mantenibles en Angular independientemente del tamaño de tu equipo y su complejidad, utilizando los mejores consejos de diseño de architecturas.  \n En este taller vas a construir una aplicación que requerirá de todos tus conocimientos en escalabilidad y mantenibilidad. Bajo un formato de concurso, los participantes recibirán puntos cada vez que tomen la decisión correcta al momento de escribir código, el ganador toma el precio y se lleva la gloria eterna. \n En esta workshop escribirás código y aprenderás a: \n- Manejar el crecimiento de tu base de código de manera eficiente \n- Usar las mejores prácticas en módulo \n - Nombrar las variables de manera correcta \n- Gestionar el estado de tu aplicación efectivamente \n- Escalar tu estructura de carpetas \n- Imponer estándares de código \n- Reutilizar tu código al máximo",
     "id" : 103,
     "language" : "Spanish",
     "speakers" : [3],
@@ -31,7 +31,7 @@
     "description" : "In this workshop, attendees will learn how to build a component with Angular Material CDK, as well as some advanced directives.",
     "id" : 104,
     "language" : "Spanish",
-    "speakers" : [4],
+    "speakers" : [5],
     "tags" : [ "UI" ],
     "title" : "Advanced components/directives with the CDK"
   },

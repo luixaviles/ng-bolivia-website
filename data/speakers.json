@@ -135,6 +135,30 @@
   "tags" : [ "Angular", "Rxjs", "Architecture", "Typescript" ],
   "title" : "Google Developer Expert"
 }, {
+  "bio" : "Diseñador web y profesor con ocho años de experiencia. Mi especialidad es la experiencia de usuario y el diseño de interfaces. Fundé y dirijo EDteam, una plataforma educativa en tecnología con presencia en toda Latinoamerica.",
+  "company" : "EDteam",
+  "country" : "Lima, Perú",
+  "featured" : true,
+  "id" : 17,
+  "name" : "Alvaro Felipe",
+  "photoUrl" : "/images/people/speakers/alvaro.jpg",
+  "shortBio" : "Fundé y dirijo EDteam, una plataforma educativa en tecnología con presencia en toda Latinoamerica.",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/alvarofelipe",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/escueladigital",
+    "name" : "GitHub"
+  }, {
+    "icon" : "website",
+    "link" : "https://ed.team/profesores/alvaro-felipe",
+    "name" : "Website"
+  }],
+  "tags" : [ "Entrepreneurship", "Community", "Web" ],
+  "title" : "Software Developer"
+}, {
   "bio" : "Israel has been programming for the past 24 years and he was working with Angular since the alphas and AngularJS for over 6 years. He made the first AngularJS Youtube channel in Spanish, and he is a former Mexico City’s Angular Meetups' organizer.",
   "company" : "UBro Apps",
   "companyLogo" : "/images/logos/ubro_apps.png",
@@ -176,30 +200,6 @@
   } ],
   "tags" : [ "Animations", "Angular", "Typescript" ],
   "title" : "Senior Front End developer"
-}, {
-  "bio" : "Diseñador web y profesor con ocho años de experiencia. Mi especialidad es la experiencia de usuario y el diseño de interfaces. Fundé y dirijo EDteam, una plataforma educativa en tecnología con presencia en toda Latinoamerica.",
-  "company" : "EDteam",
-  "country" : "Lima, Perú",
-  "featured" : true,
-  "id" : 17,
-  "name" : "Alvaro Felipe",
-  "photoUrl" : "/images/people/speakers/alvaro.jpg",
-  "shortBio" : "Fundé y dirijo EDteam, una plataforma educativa en tecnología con presencia en toda Latinoamerica.",
-  "socials" : [ {
-    "icon" : "twitter",
-    "link" : "https://twitter.com/alvarofelipe",
-    "name" : "Twitter"
-  }, {
-    "icon" : "github",
-    "link" : "https://github.com/escueladigital",
-    "name" : "GitHub"
-  }, {
-    "icon" : "website",
-    "link" : "https://ed.team/profesores/alvaro-felipe",
-    "name" : "Website"
-  }],
-  "tags" : [ "Entrepreneurship", "Community", "Web" ],
-  "title" : "Software Developer"
 }, {
   "bio" : "Byron is a consultant software developer  with more than 11 years of experience in the industry, working with different business models. Passionate about software development. Active member of different technology communities. Currently working at Thoughtworks Ecuador, leading a distributed team between Chile and Ecuador.",
   "company" : "Thoughtworks",
@@ -340,7 +340,7 @@
   "tags" : [ "Angular", "Community" ],
   "title" : "Senior Software Engineer"
 }, {
-  "bio" : "Fundadora  y Trainer de Tecnololgía de Niños y  Jóvenes  en Ideas & Código Club, Profesora de Colegio San Agustín de Computación ,  Coordinadora de Cochabamba  y Mentora de Technovation Challenge, Coach Educator de CuriosityMachine, Áreas de Profesionales Ing Sistemas  y Comunicación Social ,  Productora Campo  de Televisión  y Cine, Alumni de AIESEC Bolivia España, Monitora de Educación Espacial) Grace Torrico (Estudiante de Secundaria del San Agustín ,  Mentora de Technovation Challenge, Ganadora de medallas en Ciencias en Olimpiadas, entusiata en el desarrollo de aplicaicones y la programacion",
+  "bio" : "Fundadora  y Trainer de Tecnololgía de Niños y  Jóvenes  en Ideas & Código Club, Profesora de Colegio San Agustín de Computación, Coordinadora de Cochabamba y Mentora de Technovation Challenge, Coach Educator de CuriosityMachine, Áreas de Profesionales Ing Sistemas  y Comunicación Social ,  Productora Campo  de Televisión  y Cine, Alumni de AIESEC Bolivia España, Monitora de Educación Espacial).",
   "company" : "Ideas & Código Club",
   "country" : "Cochabamba, Bolivia",
   "featured" : false,
@@ -348,6 +348,15 @@
   "name" : "Maria Rene Torrez",
   "photoUrl" : "/images/people/speakers/maria_rene.jpg",
   "shortBio" : "Fundadora  y Trainer de Tecnololgía de Niños y  Jóvenes  en Ideas & Código Club.",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/solorene",
+    "name" : "Twitter"
+  }, {
+    "icon" : "github",
+    "link" : "https://github.com/solorene",
+    "name" : "GitHub"
+  }],
   "tags" : [ "Angular", "Community" ],
   "title" : "Software Engineer"
 }, {
@@ -403,10 +412,15 @@
   "company" : "Ideas & Código Club",
   "country" : "Cochabamba, Bolivia",
   "featured" : false,
-  "id" : 17,
+  "id" : 18,
   "name" : "Grace Carola Torrico",
   "photoUrl" : "/images/people/speakers/grace_torrico.jpg",
   "shortBio" : "Estudiante de Secundaria del San Agustín , Mentora de Technovation Challenge, Ganadora de medallas en Ciencias en Olimpiadas, entusiata en el desarrollo de aplicaciones y la programacion",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/GraceCarola7",
+    "name" : "Twitter"
+  }],
   "tags" : ["Angular"],
   "title" : "Junior Developer"
 }]
