@@ -11,7 +11,7 @@
   "featured" : true,
   "id" : 1,
   "name" : "Jorge Cano",
-  "photoUrl" : "/images/people/speakers/jorge_cano.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fjorge_cano.png?alt=media&token=31d37fe4-d98b-4628-88fc-5c9dc5b7a1b3",
   "shortBio" : "After more than 9 years working in the tech industry, Jorge is a full stack developer with focus on JavaScript technologies...",
   "socials" : [ {
     "icon" : "gplus",
@@ -45,7 +45,7 @@
   "featured" : true,
   "id" : 2,
   "name" : "Josue Gutierrez",
-  "photoUrl" : "/images/people/speakers/josue_gutierrez.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fjosue_gutierrez.jpg?alt=media&token=268e9272-572d-4f07-8019-cb5fdfbd428a",
   "shortBio" : "Josue has been a software developer during the last 10 years working for companies in Mexico and USA...",
   "socials" : [ {
     "icon" : "twitter",
@@ -75,7 +75,7 @@
   "featured" : true,
   "id" : 3,
   "name" : "Andrés Villanueva",
-  "photoUrl" : "/images/people/speakers/andres_villanueva.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fandres_villanueva.jpg?alt=media&token=285accf7-a3e1-46b4-a66a-2538a380d6a0",
   "shortBio" : "Venezuelan based in Argentina, Andrés is a passionate Web Developer, who started to feel interested in technology approximately in 2012...",
   "socials" : [ {
     "icon" : "twitter",
@@ -109,7 +109,7 @@
   "featured" : true,
   "id" : 4,
   "name" : "Juan Herrera",
-  "photoUrl" : "/images/people/speakers/juan_herrera.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fjuan_herrera.jpg?alt=media&token=b24765bf-f149-48ab-9d7e-32c60c47d63c",
   "shortBio" : "Juan is a Colombian-based software engineer and the organizer of the first Angular conference in Latin America...",
   "socials" : [ {
     "icon" : "twitter",
@@ -141,7 +141,7 @@
   "featured" : true,
   "id" : 17,
   "name" : "Alvaro Felipe",
-  "photoUrl" : "/images/people/speakers/alvaro.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Falvaro.jpg?alt=media&token=dfe5ab9d-6c25-4d98-97ad-5942f6970756",
   "shortBio" : "Fundé y dirijo EDteam, una plataforma educativa en tecnología con presencia en toda Latinoamerica.",
   "socials" : [ {
     "icon" : "twitter",
@@ -166,7 +166,7 @@
   "featured" : true,
   "id" : 5,
   "name" : "Israel Guzmán",
-  "photoUrl" : "/images/people/speakers/israel_guzman.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fisrael_guzman.jpg?alt=media&token=46c806ab-e008-47a5-b0ff-3b91c3654ef8",
   "shortBio" : "Israel has been programming for the past 24 years and he was working with Angular since the alphas...",
   "socials" : [ {
     "icon" : "twitter",
@@ -187,7 +187,7 @@
   "featured" : true,
   "id" : 6,
   "name" : "Carlos Angulo",
-  "photoUrl" : "/images/people/speakers/carlos_angulo.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fcarlos_angulo.jpg?alt=media&token=1eaebe9e-3be6-4c67-a133-c491b5484602",
   "shortBio" : "Carlos is a Front End Senior developer working at YUXI Global. Co-organizer and MC for Angular Medellin. Industrial designer passionate about UX-UI 3D design...",
   "socials" : [ {
     "icon" : "twitter",
@@ -208,7 +208,7 @@
   "featured" : true,
   "id" : 7,
   "name" : "Byron Torres",
-  "photoUrl" : "/images/people/speakers/byletor.png",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fbyletor.png?alt=media&token=4e9e6f25-d3cd-4c20-bca1-fd13f8b13904",
   "shortBio" : "Byron is a consultant software developer  with more than 11 years of experience in the industry.",
   "socials" : [ {
     "icon" : "twitter",
@@ -225,7 +225,7 @@
   "featured" : true,
   "id" : 8,
   "name" : "Carlos Olivera",
-  "photoUrl" : "/images/people/speakers/carlos.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fcarlos.jpg?alt=media&token=f4b2bd17-fccf-48c0-869a-10c1be241b4c",
   "shortBio" : "Software developer, tech entrepreneur, He’s been involved in the industry since 1997.",
   "socials" : [ {
     "icon" : "twitter",
@@ -250,7 +250,7 @@
   "featured" : false,
   "id" : 9,
   "name" : "Nicolas Molina",
-  "photoUrl" : "/images/people/speakers/nicobytes.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fnicobytes.jpg?alt=media&token=d439e53b-a176-4d53-82f0-9d4d08c27eb0",
   "shortBio" : "I am a software developer who is passionate about Web applications and Hybrid Apps. I love to be developer and to create software. I love to be an speaker in meetups and conferences.",
   "socials" : [ {
     "icon" : "twitter",
@@ -275,7 +275,7 @@
   "featured" : false,
   "id" : 10,
   "name" : "Andres Jordan",
-  "photoUrl" : "/images/people/speakers/jordan.webp",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fjordan.webp?alt=media&token=6160c828-3694-4490-bc58-55885c12215c",
   "shortBio" : "Ingeniero de Sistemas, actualmente se desempeña como Especialista de Software(Apps Móviles) y UX Design en la empresa de telecomunicaciones VIVA...",
   "socials" : [ {
     "icon" : "twitter",
@@ -294,7 +294,7 @@
   "featured" : false,
   "id" : 11,
   "name" : "Kenji Lozano",
-  "photoUrl" : "/images/people/speakers/kenji_lozano.jpeg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fkenji_lozano.jpeg?alt=media&token=5a299fde-f85d-4ac4-bc83-54d03c5dc890",
   "shortBio" : "Desarrollador Font-End que actualmente trabaja con Angular, es parte de la Comunidad Angular Bolivia, fanático por Meteor y Apollo Stack.",
   "socials" : [ {
     "icon" : "twitter",
@@ -314,7 +314,7 @@
   "featured" : false,
   "id" : 12,
   "name" : "Lupe Canaviri Maydana",
-  "photoUrl" : "/images/people/speakers/lupe.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Flupe.jpg?alt=media&token=212e4481-d809-4fc5-b15b-e4b85c056301",
   "shortBio" : "Ella es una software engineer que se graduó de la carrera de Informática de la UMSA en Bolivia el 2017",
   "socials" : [ {
     "icon" : "twitter",
@@ -330,7 +330,7 @@
   "featured" : false,
   "id" : 13,
   "name" : "Elias Negrete",
-  "photoUrl" : "/images/people/speakers/eliasfnegrete.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Feliasfnegrete.jpg?alt=media&token=a4e416e9-4402-41e2-a237-9bb379de96fd",
   "shortBio" : " Actualmente desarrollo  aplicaciones Front End (Angular 6) y uso de Asp.net Core para múltiples plataformas. ",
   "socials" : [ {
     "icon" : "twitter",
@@ -346,7 +346,7 @@
   "featured" : false,
   "id" : 14,
   "name" : "Maria Rene Torrez",
-  "photoUrl" : "/images/people/speakers/maria_rene.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fmaria_rene.jpg?alt=media&token=2dcbf5b2-f76d-4d93-831e-a03dd3c05a6f",
   "shortBio" : "Fundadora  y Trainer de Tecnololgía de Niños y  Jóvenes  en Ideas & Código Club.",
   "socials" : [ {
     "icon" : "twitter",
@@ -366,7 +366,7 @@
   "featured" : false,
   "id" : 15,
   "name" : "Lizzy Mendivil",
-  "photoUrl" : "/images/people/speakers/lizzy-mendivil.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Flizzy-mendivil.jpg?alt=media&token=7143a76f-807c-43a9-a471-f6d666d305ee",
   "shortBio" : "Systems engineer with experience in software analysis and development for 10 years. Scrum Developer Certified.",
   "socials" : [ {
     "icon" : "twitter",
@@ -390,7 +390,7 @@
   "featured" : false,
   "id" : 16,
   "name" : "Luis Aviles",
-  "photoUrl" : "/images/people/speakers/luixaviles-photo.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fluixaviles-photo.jpg?alt=media&token=ebeda7ba-5fed-4bec-8dec-0b5ea21f3ba6",
   "shortBio" : "Luis works as a Senior Angular Developer and Instructor at AssureSoft Corp where he is currently a lead development engineer of a front-end team...",
   "socials" : [ {
     "icon" : "twitter",
@@ -414,7 +414,7 @@
   "featured" : false,
   "id" : 18,
   "name" : "Grace Carola Torrico",
-  "photoUrl" : "/images/people/speakers/grace_torrico.jpg",
+  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fgrace_torrico.jpg?alt=media&token=ca3da2cf-492a-43be-b364-732bef08e50a",
   "shortBio" : "Estudiante de Secundaria del San Agustín , Mentora de Technovation Challenge, Ganadora de medallas en Ciencias en Olimpiadas, entusiata en el desarrollo de aplicaciones y la programacion",
   "socials" : [ {
     "icon" : "twitter",

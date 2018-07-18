@@ -47,6 +47,16 @@
         "url": "http://www.gdgsantacruz.org/"
       },
       {
+        "logoUrl": "../images/logos/partners/gdg_sucre.png",
+        "name": "GDG Sucre",
+        "url": "https://www.meetup.com/GDG-Sucre/"
+      },
+      {
+        "logoUrl": "../images/logos/partners/cochabamba_ai.png",
+        "name": "Cochabamba AI",
+        "url": "https://cochabamba.city.ai/"
+      },
+      {
         "logoUrl": "../images/logos/partners/scesi.png",
         "name": "SCESI",
         "url": "https://www.scesi.umss.edu.bo/"
