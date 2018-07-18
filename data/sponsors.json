@@ -43,6 +43,10 @@
     "logoUrl" : "../images/logos/partners/digitalocean.png",
     "name" : "Digital Ocean",
     "url" : "https://www.digitalocean.com/about/"
+  }, {
+    "logoUrl" : "../images/logos/partners/e-boleteria.png",
+    "name" : "E-Boleteria",
+    "url" : "https://e-boleteria.com/"
   } ],
   "title" : "Partner",
   "logosClass": "bronze"
