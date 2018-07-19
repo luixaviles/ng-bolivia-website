@@ -384,14 +384,14 @@
   "tags" : [ "Web", "Angular"],
   "title" : "Software Developer"
 }, {
-  "bio" : "Luis works as a Senior Angular Developer and Instructor at AssureSoft Corp where he is currently a lead development engineer of a front-end team with special focus on Angular as main technology and framework. He started to develop web apps with AngularJS 1.2 and he mainly has worked with JavaScript since then. He’s an enthusiast of Open Source software, web technologies and communities. He’s the organizer of the Angular Bolivia community. When he is not coding, Luis is reading about Astronomy or nerding about outer space, photography or even doing Astrophotography.",
-  "company" : "AssureSoft",
+  "bio" : "Luis works as a Senior Angular Developer and Instructor with special focus on Angular as main technology and framework. He started to develop web apps with AngularJS 1.2 and he mainly has worked with JavaScript since then. He’s an enthusiast of Open Source software, web technologies and communities. He’s the organizer of the Angular Bolivia community. When he’s not coding, Luis is reading about Astronomy or nerding about outer space, photography or even doing Astrophotography.",
+  "company" : "Angular Bolivia",
   "country" : "Cochabamba, Bolivia",
   "featured" : false,
   "id" : 16,
   "name" : "Luis Aviles",
   "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fluixaviles-photo.jpg?alt=media&token=ebeda7ba-5fed-4bec-8dec-0b5ea21f3ba6",
-  "shortBio" : "Luis works as a Senior Angular Developer and Instructor at AssureSoft Corp where he is currently a lead development engineer of a front-end team...",
+  "shortBio" : "Luis works as a Senior Angular Developer and Instructor with special focus on Angular as main technology and framework...",
   "socials" : [ {
     "icon" : "twitter",
     "link" : "https://twitter.com/luixaviles",
