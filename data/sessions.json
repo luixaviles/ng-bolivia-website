@@ -46,7 +46,7 @@
   "107" : {
     "description" : "Registry",
     "id" : 107,
-    "image" : "/images/backgrounds/registration.jpg",
+    "image" : "/images/backgrounds/opening.jpg",
     "title" : "Registry"
   },
   "108" : {
@@ -70,11 +70,11 @@
     "id" : 110,
     "language" : "Spanish",
     "speakers" : [3],
-    "tags" : [ "Architecture" ],
+    "tags" : [ "Architecture", "Angular" ],
     "title" : "Scalable Angular Architecture"
   },
   "111" : {
-    "description" : "El término Micro Frontends apareció por primera vez en ThoughtWorks Technology Radar a finales de 2016. Extiende los conceptos de micro servicios al mundo frontend. La tendencia actual es construir una aplicación de navegador potente y rica en funciones, también conocida como aplicación de una sola página, que se encuentra sobre una arquitectura de micro servicio. Con el tiempo, la capa frontend, a menudo desarrollada por un equipo separado, crece y se vuelve más difícil de mantener. Eso es lo que llamamos un monolito frontend.",
+    "description" : "Hoy en dia hacer code review es algo imprescindible en el ciclo de desarrollo muchos productos, pero que es lo que realmente busca?, cuales son los mitos/verdades?, y porque es es tan importante hacerlo?",
     "id" : 111,
     "language" : "Spanish",
     "speakers" : [11],
@@ -90,11 +90,11 @@
     "title" : "De LATAM a New York, jornada de una imilla dev"
   },
   "113" : {
-    "description" : "Mostraremos como hacer  el Build Production  para poder publicar en Azure",
+    "description" : "Realizar aplicaciones con Angular ahora es súper fácil y solo requiere unos cuantos pasos. Ahora con el Framework de Angular, puede ser implementando de Azure en minutos. Indicaré los pasos para poder crear una webApp en azure listo para subir un proyecto Angular.  Mostraré los pasos necesarios para poder poner en producción un ejemplo básico de Angular en Azure, usando la ayuda de Angular CLI. Luego, enviamos nuestro código a Github y se implementará con Nodejs en Azure.",
     "id" : 113,
     "language" : "Spanish",
     "speakers" : [13],
-    "tags" : [ "Cloud" ],
+    "tags" : [ "Cloud", "Angular" ],
     "title" : "Build Production Angular con Azure Cloud"
   },
   "114" : {
@@ -122,7 +122,7 @@
     "id" : 117,
     "language" : "Spanish",
     "speakers" : [4],
-    "tags" : [ "ui" ],
+    "tags" : [ "UI", "Entrepreneurship" ],
     "title" : "¿Por qué tu proyecto necesita una guía de estilos?"
   },
   "118" : {
@@ -142,7 +142,7 @@
     "id" : 120,
     "language" : "Spanish",
     "speakers" : [10],
-    "tags" : [ "Mobile" ],
+    "tags" : [ "Mobile", "Angular" ],
     "title" : "Tips and tricks to improve performance in Nativescript with Angular"
   },
   "121" : {
@@ -158,14 +158,14 @@
     "id" : 122,
     "language" : "Spanish",
     "speakers" : [2],
-    "tags" : [ "Firebase" ],
-    "title" : "Firebase + NgRx ¿Isn't enough about reactiveness?"
+    "tags" : [ "Firebase", "Ngrx" ],
+    "title" : "Firebase + NgRx, Isn't enough about reactiveness?"
   },
   "123" : {
     "description" : "En Bolivia ha crecido la intencionalidad de que los niños y jóvenes trabajen con tecnología en su diario vivir y en su proceso educativo. Es así que STEAM es un horizonte interesante para la Bolivia, pero también se ve lejano, teniendo en cuenta lo que sucede hoy en las aulas. Es fácil imaginar que implantarlo en la educación inicial o primaria, pues sería ideal, pero actualmente hay más casos de éxito con  jovencit@s de secundaria. En Cochabamba, hemos aplicado los principios STEAM (Ciencia, Tecnología, Ingeniería, Arte y Matemáticas) dentro de nuestro club de tecnología con estudiantes desde los 8 años hasta 17, desarrollando juegos  y aplicaciones webs o móviles. Deseamos mostrar el proceso Facilitador – estudiante en el proceso creativo de un juego una aplicación  usando en este caso las ventajas de Angular. ",
     "id" : 123,
     "language" : "Spanish",
-    "speakers" : [14],
+    "speakers" : [14, 17],
     "tags" : [ "Entrepreneurship" ],
     "title" : "STEAM+KIDS+ANGULAR: Amazing!"
   },
@@ -174,7 +174,7 @@
     "id" : 124,
     "language" : "Spanish",
     "speakers" : [15],
-    "tags" : [ "ui" ],
+    "tags" : [ "UI" ],
     "title" : "Devs! Learn how to layout and design a website without hiring a web designer"
   },
   "125" : {
@@ -194,7 +194,7 @@
     "id" : 127,
     "language" : "Spanish",
     "speakers" : [8],
-    "tags" : [ "Mobile" ],
+    "tags" : [ "Mobile", "Entrepreneurship", "Angular" ],
     "title" : "IONIC in the real world: tips, tricks and best practices"
   },
   "128" : {
@@ -225,7 +225,7 @@
     "description" : "Sponsor: Toptal",
     "id" : 131,
     "image" : "/images/backgrounds/opening.jpg",
-    "title" : "Sponsor: EDteam"
+    "title" : "Sponsor: Toptal"
   },
   "132" : {
     "description" : "Conference Panel",
