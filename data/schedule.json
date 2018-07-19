@@ -32,5 +32,146 @@
         "title" : "Laboratory 2"
       }
     ]
+  },
+  {
+    "date" : "2018-09-04",
+    "dateReadable" : "August 4. Conference",
+    "timeslots" : [
+      {
+        "startTime" : "08:00",
+        "endTime" : "09:00",
+        "sessions" : [ [107] ]
+      },
+      {
+        "startTime" : "09:00",
+        "endTime" : "09:15",
+        "sessions" : [ [108] ]
+      },
+      {
+        "startTime" : "09:20",
+        "endTime" : "09:45",
+        "sessions" : [ [109] ]
+      },
+      {
+        "startTime" : "09:50",
+        "endTime" : "10:15",
+        "sessions" : [ [110] ]
+      },
+      {
+        "startTime" : "10:15",
+        "endTime" : "10:25",
+        "sessions" : [ [111] ]
+      },
+      {
+        "startTime" : "10:25",
+        "endTime" : "10:35",
+        "sessions" : [ [112] ]
+      },
+      {
+        "startTime" : "10:35",
+        "endTime" : "10:45",
+        "sessions" : [ [113] ]
+      },
+      {
+        "startTime" : "10:45",
+        "endTime" : "10:55",
+        "sessions" : [ [114] ]
+      },
+      {
+        "startTime" : "10:55",
+        "endTime" : "11:15",
+        "sessions" : [ [115] ]
+      },
+      {
+        "startTime" : "11:15",
+        "endTime" : "11:40",
+        "sessions" : [ [116] ]
+      },
+      {
+        "startTime" : "11:45",
+        "endTime" : "12:10",
+        "sessions" : [ [117] ]
+      },
+      {
+        "startTime" : "12:10",
+        "endTime" : "12:15",
+        "sessions" : [ [118] ]
+      },
+      {
+        "startTime" : "12:15",
+        "endTime" : "2:00",
+        "sessions" : [ [119] ]
+      },
+      {
+        "startTime" : "2:00",
+        "endTime" : "2:25",
+        "sessions" : [ [120] ]
+      },
+      {
+        "startTime" : "2:30",
+        "endTime" : "2:55",
+        "sessions" : [ [121] ]
+      },
+      {
+        "startTime" : "3:00",
+        "endTime" : "3:25",
+        "sessions" : [ [122] ]
+      },
+      {
+        "startTime" : "3:30",
+        "endTime" : "3:40",
+        "sessions" : [ [123] ]
+      },
+      {
+        "startTime" : "3:40",
+        "endTime" : "3:50",
+        "sessions" : [ [124] ]
+      },
+      {
+        "startTime" : "3:50",
+        "endTime" : "4:00",
+        "sessions" : [ [125] ]
+      },
+      {
+        "startTime" : "4:00",
+        "endTime" : "4:20",
+        "sessions" : [ [126] ]
+      },
+      {
+        "startTime" : "4:20",
+        "endTime" : "4:45",
+        "sessions" : [ [127] ]
+      },
+      {
+        "startTime" : "4:50",
+        "endTime" : "5:15",
+        "sessions" : [ [128] ]
+      },
+      {
+        "startTime" : "5:20",
+        "endTime" : "5:45",
+        "sessions" : [ [129] ]
+      },
+      {
+        "startTime" : "5:50",
+        "endTime" : "6:15",
+        "sessions" : [ [130] ]
+      },
+      {
+        "startTime" : "6:15",
+        "endTime" : "6:20",
+        "sessions" : [ [131] ]
+      },
+      {
+        "startTime" : "6:20",
+        "endTime" : "6:50",
+        "sessions" : [ [132] ]
+      }
+    ],
+    "tracks" : [
+      {
+        "title" : "Auditorium"
+      }
+    ]
   }
 ]
