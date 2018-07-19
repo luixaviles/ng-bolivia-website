@@ -154,6 +154,14 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
+    },
+    "queEs": {
+      "title": "¿Qué es NG Bolivia?",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
     }
   }
 }
