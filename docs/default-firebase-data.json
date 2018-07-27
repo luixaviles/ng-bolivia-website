@@ -1459,12 +1459,28 @@
       "info" : "Early Bird Access",
       "name" : "Workshop",
       "price" : 100,
-      "soldOut" : false,
+      "soldOut" : true,
       "starts" : "July 12"
     }, {
       "currency" : "Bs",
       "ends" : "July 20",
-      "info" : "Early Bird Access",
+      "info" : "Early Bird Access. Full Package",
+      "name" : "Conference",
+      "price" : 200,
+      "soldOut" : true,
+      "starts" : "July 12"
+    }, {
+      "currency" : "Bs",
+      "ends" : "August 01",
+      "info" : "Normal price",
+      "name" : "Workshop",
+      "price" : 150,
+      "soldOut" : false,
+      "starts" : "July 12"
+    }, {
+      "currency" : "Bs",
+      "ends" : "August 01",
+      "info" : "Normal price",
       "name" : "Conference",
       "price" : 200,
       "soldOut" : false,

@@ -28,17 +28,23 @@ Nota: Si tu tarjeta es de débito, esta debe estar habilitada para compras por I
 7. Click en `Realizar el Pedido`
 8. Revisa tu correo electrónico con el número de pedido y los detalles bancarios para hacer el pago
 9. Realiza la transferencia o depósito a la cuenta de tu elección
-10. Contacta al beneficiario vía whatsapp enviando el **Número de pedido**, tu nombre y el monto de pago.
+10. **Contacta al beneficiario vía whatsapp enviando el _Número de pedido_, tu nombre y el monto de pago**.
 11. Luego de confirmado el pago, recibirás los tickets de tu pedido en tu correo electrónico
 12. Deberás presentar tu ticket(impreso o desde tu celular) el día del evento junto a un documento de identidad.
 
 ## ¿Qué incluye mi ticket?
-* Un ticket de conferencia te habilita el acceso a todas las sesiones para el día sábado 04 de agosto. El precio incluye la polera del evento(cupos limitados), refrigerio y otros regalos sorpresa :-)
+### Early Bird Access(**Agotado, 25/07/2018**)
+* Un ticket de conferencia te habilita el acceso a todas las sesiones para el día sábado 04 de agosto. El precio incluye la polera del evento, un tomatodo, almuerzo, cafetería ilimitada y otros regalos sorpresa.
+
+### Tickets Normales
+* Un ticket de conferencia te habilita el acceso a todas las sesiones para el día sábado 04 de agosto. El precio incluye cafetería ilimitada y otros regalos sorpresa :-)
 * Un ticket para workshop incluye el acceso al mismo y su respectivo refrigerio. Recuerda que cada workshop tiene una duración de 4 horas. Mayores detalles [aquí](https://ng-bolivia.org/schedule/day1). Por supuesto, puedes inscribirte a dos workshops si así lo deseas ;-)
 
+## ¿Hay algún requisito para acceder a la Conferencia?
+No existe ningún requisito, más que el interés de participar de una conferencia cargada de mucho conocimiento y _networking_.
 
 ## ¿Cuales son los pre-requisitos para los Workshops?
-Los workshops se desarrollarán el día viernes 03 de agosto. Y es necesario que asistas con tu laptop con el siguiente software pre-instalado:
+Los workshops se desarrollarán el día viernes 03 de agosto. Y es necesario que asistas con tu **laptop** con el siguiente software pre-instalado:
 
 1. Git
 2. Node.js (Preferentemente la última versión LTS)
@@ -53,3 +59,7 @@ Si requieres instrucciones precisas para tener instalado el software, pudes revi
 
 ¡No te preocupes! Hemos preparado unas cartas para que tu solicitud sea más simple. Descarga las plantillas [aquí](https://goo.gl/akun13).
 
+## Mayor información
+
+* Artículo publicado en Los Tiempos: [Expertos internacionales darán Conferencia de Desarrollo Web y Angular](http://www.lostiempos.com/tendencias/tecnologia/20180720/expertos-internacionales-daran-conferencia-desarrollo-web-angular)
+* Artículo publicado en la revista Join4IT: [“NG Bolivia” primera conferencia internacional sobre Angular y Desarrollo Web en Bolivia. Un evento cargado de aprendizaje junto a Google Developers Experts](http://join4it.com/ng-bolivia-primera-conferencia-internacional-sobre-angular-y-desarrollo-web-un-evento-cargado-de-aprendizaje-a-cargo-de-google-developers-experts/)

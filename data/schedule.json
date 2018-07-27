@@ -11,7 +11,7 @@
       {
         "startTime" : "08:30",
         "endTime" : "12:30",
-        "sessions" : [ [ 101 ], [ 103 ] ]
+        "sessions" : [ [ 103 ], [ 101 ] ]
       },
       {
         "startTime" : "13:30",
