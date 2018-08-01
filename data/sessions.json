@@ -104,10 +104,10 @@
     "title" : "Sponsor: Scalable Path"
   },
   "115" : {
-    "description" : "Break",
+    "description" : "Coffe Break",
     "id" : 115,
-    "image" : "/images/backgrounds/break.jpg",
-    "title" : "Break"
+    "image" : "/images/backgrounds/break.png",
+    "title" : "Coffe Break"
   },
   "116" : {
     "description" : "One of the biggest questions that the developers have when they're start using Angular is what's the purpose?, which tools they can build with the framework?. In this talk I'll be showing some examples beyond to build apps with forms. ",
@@ -132,10 +132,10 @@
     "title" : "Sponsor: Jala"
   },
   "119" : {
-    "description" : "Lunch Time",
+    "description" : "Lunch Break",
     "id" : 119,
-    "image" : "/images/backgrounds/lunch.jpg",
-    "title" : "Lunch Time"
+    "image" : "/images/backgrounds/lunch.png",
+    "title" : "Lunch Break"
   },
   "120" : {
     "description" : "En esta charla se pretende mostrar tips y trucos de como mejorar el perfomance de las aplicaciones que se desarrolla con nativescript y angular, gracias a mi experiencia desarrollando y poniendo en producción varias apps utilizando esta tecnología, aprendí varios tips y trucos a considerar al momento de desarrollar una aplicación móvil trabajando con nativescript y angular, además de mostrar cuáles fueron las mejoras que se hicieron en la última versión de nativescript y como es que gracias a la última versión de angular se ha mejorado bastante el tema del performance que es sumamente importante en el desarrollo de aplicaciones móviles nativas.",
@@ -184,10 +184,10 @@
     "title" : "Sponsor: EDteam"
   },
   "126" : {
-    "description" : "Break",
+    "description" : "Coffe Break",
     "id" : 126,
-    "image" : "/images/backgrounds/break.jpg",
-    "title" : "Break"
+    "image" : "/images/backgrounds/break.png",
+    "title" : "Coffe Break"
   },
   "127" : {
     "description" : "Más allá del 'Hola Mundo', veremos como se comportan las aplicaciones desarrolladas con la plataforma IONIC en el mundo real. Que aspectos debemos cuidar, cuales son las buenas prácticas para evitar problemas en producción",
