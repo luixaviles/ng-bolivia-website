@@ -1,0 +1,260 @@
+[
+  {
+    "members" : [ {
+      "name" : "Luis Aviles",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fluixaviles-photo.jpg?alt=media&token=ebeda7ba-5fed-4bec-8dec-0b5ea21f3ba6",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/luixaviles",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/luixaviles",
+        "name" : "GitHub"
+      }, {
+        "icon" : "website",
+        "link" : "https://luixaviles.com/",
+        "name" : "Website"
+      }],
+      "title" : "Organizer"
+    }, {
+      "name" : "Ivo Rojas",
+      "photoUrl" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/luixaviles",
+        "name" : "Twitter"
+      }],
+      "title" : "Party and happiness"
+    }, 
+    {
+      "name" : "Gabriela Torrico",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/905928079285026816/ho2GeA2Q_400x400.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Gaby_Torrico",
+        "name" : "Twitter"
+      }],
+      "title" : "Master of Ceremonies"
+    },
+    {
+      "name" : "Gustavo Pacchi",
+      "photoUrl" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/luixaviles",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/luixaviles",
+        "name" : "GitHub"
+      }, {
+        "icon" : "website",
+        "link" : "https://luixaviles.com/",
+        "name" : "Website"
+      }],
+      "title" : "Staff"
+    },
+    {
+      "name" : "Nicolas Molina",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/nicobytes-7bea8.appspot.com/o/DSC00733.JPG?alt=media&token=2348371c-71c6-46ac-bd42-bf56e5522293",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/nicobytes",
+        "name" : "Twitter"
+      }],
+      "title" : "Website and sponsors"
+    },
+    {
+      "name" : "Tania Valero",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/team%2F33129645_10214013130496906_4013878024532393984_o.jpg?alt=media&token=5c878446-ccda-4e82-aeab-e98c5891c1ee",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/taniaandrea.valeromalele",
+        "name" : "Facebook"
+      }],
+      "title" : "Social and media"
+    },
+    {
+      "name" : "Antonio Vargas",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/team%2F18954967_10213427798798843_822081732809150096_o.jpg?alt=media&token=181258b6-d327-4371-87eb-e18f1ed21b43",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/mauricioantonio.vargasluizaga",
+        "name" : "Facebook"
+      }],
+      "title" : "Social and media"
+    },
+    {
+      "name" : "Diego Gonzalez",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/2267774367/La_20Capital-20120529-00040_400x400.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/diegosebgonz",
+        "name" : "Twitter"
+      }],
+      "title" : "Website"
+    },
+    {
+      "name" : "Wilder Baptista",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fluixaviles-photo.jpg?alt=media&token=ebeda7ba-5fed-4bec-8dec-0b5ea21f3ba6",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/wilder.baptista.52",
+        "name" : "Facebook"
+      }],
+      "title" : "Staff"
+    },
+    {
+      "name" : "Daniel Asin",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/610662474715693056/UfklP-xP_400x400.png",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Daniel_Asin",
+        "name" : "Twitter"
+      }],
+      "title" : "Staff"
+    },
+    {
+      "name" : "Cesar Serrudo",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/801973355851186176/_4NDu7-w_400x400.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/csardev88",
+        "name" : "Twitter"
+      }],
+      "title" : "Staff"
+    },
+    {
+      "name" : "Carlos Eduardo Villarroel",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/team%2F19731959_1909020006017367_1213856457797563653_n.jpg?alt=media&token=2e1d5e98-f488-44f7-8f24-441dad2a6087",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/edu.villarroelv",
+        "name" : "Facebook"
+      }],
+      "title" : "Master of Ceremonies"
+    },
+    {
+      "name" : "Rodrigo Torrico",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/1006594279953793029/bh0ckqnU_400x400.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/whiletruedothis",
+        "name" : "Twitter"
+      }],
+      "title" : "Graphic Design"
+    },
+    {
+      "name" : "Rene Cardozo",
+      "photoUrl" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/CardozoRene",
+        "name" : "Twitter"
+      }],
+      "title" : "Staff"
+    },
+    {
+      "name" : "Lizzy Mendivil",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/991831645522030593/g-AYphU6_400x400.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/lizzymendivil",
+        "name" : "Twitter"
+      }],
+      "title" : "Staff"
+    },
+    {
+      "name" : "Santiago Caballero",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/568904354715824128/TbZxjwbA_400x400.jpeg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/scaballeronavia",
+        "name" : "Twitter"
+      }],
+      "title" : "Staff"
+    },
+    {
+      "name" : "Maria Garcia",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/946754198431035394/EP1EHxJ__400x400.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/grissgarcia074",
+        "name" : "Twitter"
+      }],
+      "title" : "Photography"
+    },
+    {
+      "name" : "Mauricio Arce",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/961006866359836672/pbujg088_400x400.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Mauri075",
+        "name" : "Twitter"
+      }],
+      "title" : "Photography"
+    },
+    {
+      "name" : "Fernando Solis",
+      "photoUrl" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/luixaviles",
+        "name" : "Twitter"
+      }],
+      "title" : "Staff"
+    },
+    {
+      "name" : "Breydi Vasques",
+      "photoUrl" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/luixaviles",
+        "name" : "Twitter"
+      }],
+      "title" : "Staff"
+    },
+    {
+      "name" : "Andres Jordan",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fjordan.webp?alt=media&token=6160c828-3694-4490-bc58-55885c12215c",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/andresjordanze",
+        "name" : "Twitter"
+      }],
+      "title" : "Graphic Design"
+    },
+    {
+      "name" : "Jose Alberto Mendiola",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/team%2F10398732_1221950591902_6523896_n.jpg?alt=media&token=fc6993a7-56f7-4365-9a16-7e6031a7e96a",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/alberto.mendiola.391",
+        "name" : "Facebook"
+      }],
+      "title" : "Animation"
+    },
+    {
+      "name" : "Kenji Lozano",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fkenji_lozano.jpeg?alt=media&token=5a299fde-f85d-4ac4-bc83-54d03c5dc890",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/kenji_lozano",
+        "name" : "Twitter"
+      }],
+      "title" : "Swag"
+    },
+    {
+      "name" : "Igor Buergo",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/team%2F34319455_10209662420117884_671408267171201024_o.jpg?alt=media&token=68783f98-05ea-4627-95d0-99ec0babcc0a",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/igorBuergoC",
+        "name" : "Facebook"
+      }],
+      "title" : "Master of Ceremonies"
+    }],
+    "title" : "Core Team"
+  }
+]
