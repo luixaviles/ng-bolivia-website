@@ -19,7 +19,7 @@
       "title" : "Organizer"
     }, {
       "name" : "Ivo Rojas",
-      "photoUrl" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/team%2FWhatsApp%20Image%202018-08-02%20at%207.59.43%20PM.jpeg?alt=media&token=a590649f-4ced-4294-a4a8-6e0406f779dc",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/luixaviles",
@@ -36,24 +36,6 @@
         "name" : "Twitter"
       }],
       "title" : "Master of Ceremonies"
-    },
-    {
-      "name" : "Gustavo Pacchi",
-      "photoUrl" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/luixaviles",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/luixaviles",
-        "name" : "GitHub"
-      }, {
-        "icon" : "website",
-        "link" : "https://luixaviles.com/",
-        "name" : "Website"
-      }],
-      "title" : "Staff"
     },
     {
       "name" : "Nicolas Molina",
@@ -146,16 +128,6 @@
       "title" : "Graphic Design"
     },
     {
-      "name" : "Rene Cardozo",
-      "photoUrl" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/CardozoRene",
-        "name" : "Twitter"
-      }],
-      "title" : "Staff"
-    },
-    {
       "name" : "Lizzy Mendivil",
       "photoUrl" : "https://pbs.twimg.com/profile_images/991831645522030593/g-AYphU6_400x400.jpg",
       "socials" : [ {
@@ -196,26 +168,6 @@
       "title" : "Photography"
     },
     {
-      "name" : "Fernando Solis",
-      "photoUrl" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/luixaviles",
-        "name" : "Twitter"
-      }],
-      "title" : "Staff"
-    },
-    {
-      "name" : "Breydi Vasques",
-      "photoUrl" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/luixaviles",
-        "name" : "Twitter"
-      }],
-      "title" : "Staff"
-    },
-    {
       "name" : "Andres Jordan",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/speakers%2Fjordan.webp?alt=media&token=6160c828-3694-4490-bc58-55885c12215c",
       "socials" : [ {
@@ -254,7 +206,48 @@
         "name" : "Facebook"
       }],
       "title" : "Master of Ceremonies"
-    }],
+    },
+    {
+      "name" : "Gustavo Pacchi",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/team%2Fpachi.jpg?alt=media&token=3a371a74-4820-41de-8cef-178291eaa7d8",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/luixaviles",
+        "name" : "Twitter"
+      }],
+      "title" : "Staff"
+    },
+    {
+      "name" : "Rene Cardozo",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/team%2Fcardozo.png?alt=media&token=62fc7e42-4c92-486f-b5b0-95ec42e25cc8",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/CardozoRene",
+        "name" : "Twitter"
+      }],
+      "title" : "Staff"
+    },
+    {
+      "name" : "Fernando Solis",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/team%2Fsolis.png?alt=media&token=a3b44189-f769-468e-a993-f57d95ba629d",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/luixaviles",
+        "name" : "Twitter"
+      }],
+      "title" : "Staff"
+    },
+    {
+      "name" : "Breydi Vasques",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/angelic-bond-209009.appspot.com/o/team%2Fvasques.png?alt=media&token=7486a5e4-105b-454b-9ba8-a61b2dfe06bc",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/luixaviles",
+        "name" : "Twitter"
+      }],
+      "title" : "Staff"
+    }
+  ],
     "title" : "Core Team"
   }
 ]
